@@ -18,7 +18,7 @@ So, here's how you install this patch.
     - KB971514 (Windows Portable Devices Platform)
     - KB960362 (Windows Ribbon and Animation Manager Library)
   - Platform Update Supplement (KB2117917)
-  - Windows Driver Framework version 1.11 update (KB2761494) (This is most important for improving graphical compatibility.)
+  - Windows Driver Framework version 1.11 update (KB2761494) (This is most important for improving driver compatibility.)
 - Download NVIDIA GeForce Game Ready Driver version 372.70 for Windows 7, 8 and 8.1 with corresponding architecture.
   - For 64-bit:
     - https://www.nvidia.com/download/driverResults.aspx/107008/en-us/
