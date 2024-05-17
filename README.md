@@ -13,23 +13,33 @@ So, here's how you install this patch.
 - You need to install these updates (Not necassary but they're improving compatibility.):
   - .NET Framework 4.6.1
   - Platform Update (KB971644, contains 4 updates)
-    - KB971512 = Windows Graphics, Imaging, and XPS Library (with DirectX 11) (At least, this is required; others are optional)
-    - KB971513 = Windows Automation API
-    - KB971514 = Windows Portable Devices Platform
-    - KB960362 = Windows Ribbon and Animation Manager Library
+    - KB971512 (Windows Graphics, Imaging, and XPS Library (with DirectX 11)) (This is most important for improving graphical compatibility; others are optional)
+    - KB971513 (Windows Automation API)
+    - KB971514 (Windows Portable Devices Platform)
+    - KB960362 (Windows Ribbon and Animation Manager Library)
   - Platform Update Supplement (KB2117917)
-  - Windows Driver Framework version 1.11 update (KB2761494)
-- Download NVIDIA Windows 7 372.70 with corresponding architecture.
+  - Windows Driver Framework version 1.11 update (KB2761494) (This is most important for improving graphical compatibility.)
+- Download NVIDIA GeForce Game Ready Driver version 372.70 for Windows 7, 8 and 8.1 with corresponding architecture.
   - For 64-bit:
     - https://www.nvidia.com/download/driverResults.aspx/107008/en-us/
+      - Wayback Machine mirror:
+        - https://web.archive.org/web/20240517195744/https://www.nvidia.com/download/driverResults.aspx/107008/en-us/
+    - https://www.nvidia.com/content/DriverDownloads/confirmation.php?url=/Windows/372.70/372.70-desktop-win8-win7-64bit-international-whql.exe&lang=us&type=GeForce
+      - Wayback Machine mirror:
+        - https://web.archive.org/web/20240517195902/https://www.nvidia.com/content/DriverDownloads/confirmation.php?url=/Windows/372.70/372.70-desktop-win8-win7-64bit-international-whql.exe&lang=us&type=GeForce
     - https://us.download.nvidia.com/Windows/372.70/372.70-desktop-win8-win7-64bit-international-whql.exe
       - Wayback Machine mirror:
         - https://web.archive.org/web/20240517194120/https://us.download.nvidia.com/Windows/372.70/372.70-desktop-win8-win7-64bit-international-whql.exe
   - For 32-bit:
     - https://www.nvidia.com/download/driverResults.aspx/107007/en-us/
+      - Wayback Machine mirror:
+        - https://web.archive.org/web/20240517200045/https://www.nvidia.com/download/driverResults.aspx/107007/en-us/
+    - https://www.nvidia.com/content/DriverDownloads/confirmation.php?url=/Windows/372.70/372.70-desktop-win8-win7-32bit-international-whql.exe&lang=us&type=GeForce
+      - Wayback Machine mirror:
+        - https://web.archive.org/web/20240517200124/https://www.nvidia.com/content/DriverDownloads/confirmation.php?url=/Windows/372.70/372.70-desktop-win8-win7-32bit-international-whql.exe&lang=us&type=GeForce
     - https://us.download.nvidia.com/Windows/372.70/372.70-desktop-win8-win7-32bit-international-whql.exe
       - Wayback Machine mirror:
-        -   
+        - https://web.archive.org/web/20240517194936/https://us.download.nvidia.com/Windows/372.70/372.70-desktop-win8-win7-32bit-international-whql.exe
 - Extract this archive via archive manager.
 - Copy Display.Driver folder corresponding your architecture to the extracted driver folder. Replace any files.
 - Double-click setup.exe to start installation.
