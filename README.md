@@ -47,7 +47,7 @@ So, here's how you install this patch. But before you install this driver, I str
       - https://download.microsoft.com/download/6/F/9/6F9673B1-87D1-46C4-BF04-95F24C3EB9DA/enu_netfx/NDP46-KB3045557-x86-x64-AllOS-ENU_exe/NDP46-KB3045557-x86-x64-AllOS-ENU.exe
         - Wayback Machine mirror:
           - https://web.archive.org/web/20240518192534/https://download.microsoft.com/download/6/F/9/6F9673B1-87D1-46C4-BF04-95F24C3EB9DA/enu_netfx/NDP46-KB3045557-x86-x64-AllOS-ENU_exe/NDP46-KB3045557-x86-x64-AllOS-ENU.exe
-    - .NET Framework 4.0 (version that comes with v372.70)
+    - .NET Framework 4.0 Full (Client+Extended) (version that comes with v372.70)
       - https://dotnet.microsoft.com/en-us/download/dotnet-framework/net40
         - Wayback Machine mirror:
           - https://web.archive.org/web/20240518192020/https://dotnet.microsoft.com/en-us/download/dotnet-framework/net40
