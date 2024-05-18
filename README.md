@@ -1,4 +1,4 @@
-# Patched NVIDIA 372.70 INF Files for Pascal-based GPU for use in Windows NT 6.0 (Vista/Server 2008)
+# Patched NVIDIA 372.70 INF Files for Pascal-based GPUs for use in Windows NT 6.0 (Vista/Server 2008)
 This repository contains patched INF files for Windows NT 6.0 (Vista/Server 2008) for NVIDIA's Desktop 372.70 driver.
 
 ## Credits
