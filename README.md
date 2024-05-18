@@ -127,26 +127,47 @@ So, here's how you install this patch. But before you install this driver, I str
         - Wayback Machine mirror:
           - https://web.archive.org/web/20240518114339/https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2012/12/windows6.0-kb2761494-x64-mergedpkg_4f986add28318ed72dc950c89b0d1ef80e8d4319.msu
 - Download NVIDIA GeForce Game Ready Driver version 372.70 for Windows 7, 8 and 8.1 with corresponding architecture.
-  - For 32-bit:
-    - https://www.nvidia.com/download/driverResults.aspx/107007/en-us/
-      - Wayback Machine mirror:
-        - https://web.archive.org/web/20240517200045/https://www.nvidia.com/download/driverResults.aspx/107007/en-us/
-    - https://www.nvidia.com/content/DriverDownloads/confirmation.php?url=/Windows/372.70/372.70-desktop-win8-win7-32bit-international-whql.exe&lang=us&type=GeForce
-      - Wayback Machine mirror:
-        - https://web.archive.org/web/20240517200124/https://www.nvidia.com/content/DriverDownloads/confirmation.php?url=/Windows/372.70/372.70-desktop-win8-win7-32bit-international-whql.exe&lang=us&type=GeForce
-    - https://us.download.nvidia.com/Windows/372.70/372.70-desktop-win8-win7-32bit-international-whql.exe
-      - Wayback Machine mirror:
-        - https://web.archive.org/web/20240517194936/https://us.download.nvidia.com/Windows/372.70/372.70-desktop-win8-win7-32bit-international-whql.exe
-  - For 64-bit:
-    - https://www.nvidia.com/download/driverResults.aspx/107008/en-us/
-      - Wayback Machine mirror:
-        - https://web.archive.org/web/20240517195744/https://www.nvidia.com/download/driverResults.aspx/107008/en-us/
-    - https://www.nvidia.com/content/DriverDownloads/confirmation.php?url=/Windows/372.70/372.70-desktop-win8-win7-64bit-international-whql.exe&lang=us&type=GeForce
-      - Wayback Machine mirror:
-        - https://web.archive.org/web/20240517195902/https://www.nvidia.com/content/DriverDownloads/confirmation.php?url=/Windows/372.70/372.70-desktop-win8-win7-64bit-international-whql.exe&lang=us&type=GeForce
-    - https://us.download.nvidia.com/Windows/372.70/372.70-desktop-win8-win7-64bit-international-whql.exe
-      - Wayback Machine mirror:
-        - https://web.archive.org/web/20240517194120/https://us.download.nvidia.com/Windows/372.70/372.70-desktop-win8-win7-64bit-international-whql.exe
+  - Starting with v340.52?, driver packages still splitted to desktop and notebook prefixes, but these packages hashes are same.
+    - For Desktop 32-bit:
+      - https://www.nvidia.com/download/driverResults.aspx/107007/en-us/
+        - Wayback Machine mirror:
+          - https://web.archive.org/web/20240517200045/https://www.nvidia.com/download/driverResults.aspx/107007/en-us/
+      - https://www.nvidia.com/content/DriverDownloads/confirmation.php?url=/Windows/372.70/372.70-desktop-win8-win7-32bit-international-whql.exe&lang=us&type=GeForce
+        - Wayback Machine mirror:
+          - https://web.archive.org/web/20240517200124/https://www.nvidia.com/content/DriverDownloads/confirmation.php?url=/Windows/372.70/372.70-desktop-win8-win7-32bit-international-whql.exe&lang=us&type=GeForce
+      - https://us.download.nvidia.com/Windows/372.70/372.70-desktop-win8-win7-32bit-international-whql.exe
+        - Wayback Machine mirror:
+          - https://web.archive.org/web/20240517194936/https://us.download.nvidia.com/Windows/372.70/372.70-desktop-win8-win7-32bit-international-whql.exe
+    - For Desktop 64-bit:
+      - https://www.nvidia.com/download/driverResults.aspx/107008/en-us/
+        - Wayback Machine mirror:
+          - https://web.archive.org/web/20240517195744/https://www.nvidia.com/download/driverResults.aspx/107008/en-us/
+      - https://www.nvidia.com/content/DriverDownloads/confirmation.php?url=/Windows/372.70/372.70-desktop-win8-win7-64bit-international-whql.exe&lang=us&type=GeForce
+        - Wayback Machine mirror:
+          - https://web.archive.org/web/20240517195902/https://www.nvidia.com/content/DriverDownloads/confirmation.php?url=/Windows/372.70/372.70-desktop-win8-win7-64bit-international-whql.exe&lang=us&type=GeForce
+      - https://us.download.nvidia.com/Windows/372.70/372.70-desktop-win8-win7-64bit-international-whql.exe
+        - Wayback Machine mirror:
+          - https://web.archive.org/web/20240517194120/https://us.download.nvidia.com/Windows/372.70/372.70-desktop-win8-win7-64bit-international-whql.exe
+    - For Notebook 32-bit
+      - https://www.nvidia.com/download/driverResults.aspx/107009/en-us/
+        - Wayback Machine mirror:
+          - https://web.archive.org/web/20240518173442/https://www.nvidia.com/download/driverResults.aspx/107009/en-us/
+      - https://www.nvidia.com/content/DriverDownloads/confirmation.php?url=/Windows/372.70/372.70-notebook-win8-win7-32bit-international-whql.exe&lang=us&type=geforcem
+        - Wayback Machine mirror:
+          - https://web.archive.org/web/20240518173646/https://www.nvidia.com/content/DriverDownloads/confirmation.php?url=/Windows/372.70/372.70-notebook-win8-win7-32bit-international-whql.exe&lang=us&type=geforcem
+      - https://us.download.nvidia.com/Windows/372.70/372.70-notebook-win8-win7-32bit-international-whql.exe
+        - Wayback Machine mirror:
+          - https://web.archive.org/web/20240518173853/https://us.download.nvidia.com/Windows/372.70/372.70-notebook-win8-win7-32bit-international-whql.exe
+    - For Notebook 64-bit
+      - https://www.nvidia.com/download/driverResults.aspx/107010/en-us/
+        - Wayback Machine mirror:
+          - https://web.archive.org/web/20240518175038/https://www.nvidia.com/download/driverResults.aspx/107010/en-us/
+      - https://www.nvidia.com/content/DriverDownloads/confirmation.php?url=/Windows/372.70/372.70-notebook-win8-win7-64bit-international-whql.exe&lang=us&type=geforcem
+        - Wayback Machine mirror:
+          - https://web.archive.org/web/20240518175201/https://www.nvidia.com/content/DriverDownloads/confirmation.php?url=/Windows/372.70/372.70-notebook-win8-win7-64bit-international-whql.exe&lang=us&type=geforcem
+      - https://us.download.nvidia.com/Windows/372.70/372.70-notebook-win8-win7-64bit-international-whql.exe
+        - Wayback Machine mirror:
+          - https://web.archive.org/web/20240518175329/https://us.download.nvidia.com/Windows/372.70/372.70-notebook-win8-win7-64bit-international-whql.exe
 - Extract this archive via archive manager.
 - Copy Display.Driver folder corresponding your architecture to the extracted driver folder. Replace any files.
 - Double-click setup.exe to start installation.
