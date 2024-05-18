@@ -19,7 +19,7 @@ Here's some screenshots that I took on 2019:
 
 ## How to install this patch?
 So, here's how you install this patch. But before you install this driver, I strongly suggest you to update to SP2.
-- You need to install these updates (Not necassary but they're improving compatibility.):
+- You need to install these programs and updates (Not necassary but they're improving compatibility.):
   - .NET Framework 4.6.1 (Vanilla driver requires .NET Framework)
     - https://dotnet.microsoft.com/en-us/download/dotnet-framework/net461
       - Wayback Machine mirror:
