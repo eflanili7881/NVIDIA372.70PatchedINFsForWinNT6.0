@@ -27,6 +27,21 @@ So, here's how you install this patch.
       - Wayback Machine mirror:
         - https://web.archive.org/web/20240518115510/https://download.microsoft.com/download/E/4/1/E4173890-A24A-4936-9FC9-AF930FE3FA40/NDP461-KB3102436-x86-x64-AllOS-ENU.exe
   - Platform Update (KB971644, contains 4 updates)
+    - KB960362 (Windows Ribbon and Animation Manager Library)
+      - For 32-bit
+        - https://www.catalog.update.microsoft.com/Search.aspx?q=kb960362
+          - Wayback Machine mirror:
+            - https://web.archive.org/web/20240518112823/https://www.catalog.update.microsoft.com/Search.aspx?q=kb960362
+        - https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2009/10/windows6.0-kb960362-x86_4091ebe5666232299791f4be1bf8a3fd6467326c.msu
+          - Wayback Machine mirror:
+            - https://web.archive.org/web/20240518112956/https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2009/10/windows6.0-kb960362-x86_4091ebe5666232299791f4be1bf8a3fd6467326c.msu
+      - For 64-bit
+        - https://www.catalog.update.microsoft.com/Search.aspx?q=kb960362
+          - Wayback Machine mirror:
+            - https://web.archive.org/web/20240518112823/https://www.catalog.update.microsoft.com/Search.aspx?q=kb960362
+        - https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2009/10/windows6.0-kb960362-x64_9c78c54ee0bf67e3f18315126ce2ebdc1b884b41.msu
+          - Wayback Machine mirror:
+            - https://web.archive.org/web/20240518113247/https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2009/10/windows6.0-kb960362-x64_9c78c54ee0bf67e3f18315126ce2ebdc1b884b41.msu
     - KB971512 (Windows Graphics, Imaging, and XPS Library (with DirectX 11)) (This is most important for improving graphical compatibility; others are optional)
       - For 32-bit
         - https://www.catalog.update.microsoft.com/search.aspx?q=kb971512
@@ -72,21 +87,6 @@ So, here's how you install this patch.
         - https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2009/10/windows6.0-kb971514-x64_80986bdc1d81c6930f6387e378abebd987ce4c70.msu
           - Wayback Machine mirror:
             - https://web.archive.org/web/20240518112620/https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2009/10/windows6.0-kb971514-x64_80986bdc1d81c6930f6387e378abebd987ce4c70.msu
-    - KB960362 (Windows Ribbon and Animation Manager Library)
-      - For 32-bit
-        - https://www.catalog.update.microsoft.com/Search.aspx?q=kb960362
-          - Wayback Machine mirror:
-            - https://web.archive.org/web/20240518112823/https://www.catalog.update.microsoft.com/Search.aspx?q=kb960362
-        - https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2009/10/windows6.0-kb960362-x86_4091ebe5666232299791f4be1bf8a3fd6467326c.msu
-          - Wayback Machine mirror:
-            - https://web.archive.org/web/20240518112956/https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2009/10/windows6.0-kb960362-x86_4091ebe5666232299791f4be1bf8a3fd6467326c.msu
-      - For 64-bit
-        - https://www.catalog.update.microsoft.com/Search.aspx?q=kb960362
-          - Wayback Machine mirror:
-            - https://web.archive.org/web/20240518112823/https://www.catalog.update.microsoft.com/Search.aspx?q=kb960362
-        - https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2009/10/windows6.0-kb960362-x64_9c78c54ee0bf67e3f18315126ce2ebdc1b884b41.msu
-          - Wayback Machine mirror:
-            - https://web.archive.org/web/20240518113247/https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2009/10/windows6.0-kb960362-x64_9c78c54ee0bf67e3f18315126ce2ebdc1b884b41.msu
   - Platform Update Supplement (KB2117917)
     - For 32-bit
       - https://www.catalog.update.microsoft.com/Search.aspx?q=kb2117917
