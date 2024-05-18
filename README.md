@@ -8,7 +8,7 @@ This repository contains patched INF files for Windows Vista for NVIDIA's Deskto
 - archive.org for providing Wayback Machine service.
 
 ## What's that patch contains?
-This patch contains support for probably all GPU's from v391.35 as I took all driver ID's from this version and I injected into v372.70 and it's the last version for 32-bit architecture. But I only tested this patch with NVIDIA GeForce GTX 1050 Ti as it's only non-native GPU for Windows Vista on my hand. This patch doesn't enable GPU acceleration on DirectX applications, although you can play 4K videos on MPC-HC. And this patch can only be installed on Windows NT 6.0-based OS' as I removed every entries for other OS'. I tested 64-bit one but I didn't tested the 32-bit one.
+This patch contains support for probably all GPU's from v391.35 as I took all driver ID's from this version and I injected into v372.70 and it's the last version for 32-bit architecture. But I only tested this patch with NVIDIA GeForce GTX 1050 Ti as it's only non-native GPU for Windows Vista on my hand. This patch doesn't enable GPU acceleration on DirectX applications, although you can play 4K videos on MPC-HC. And this patch can only be installed on Windows NT 6.0-based OS' (Windows Vista/Server 2008) as I removed every entries for other OS'. I tested 64-bit one but I didn't tested the 32-bit one.
 
 ## How to install this patch?
 So, here's how you install this patch.
