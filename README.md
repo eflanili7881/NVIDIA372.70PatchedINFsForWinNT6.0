@@ -13,7 +13,7 @@ This patch contains support for probably all GPU's from v391.35 as I took all dr
 ## How to install this patch?
 So, here's how you install this patch.
 - You need to install these updates (Not necassary but they're improving compatibility.):
-  - .NET Framework 4.6.1
+  - .NET Framework 4.6.1 (Vanilla driver requires .NET Framework)
     - https://dotnet.microsoft.com/en-us/download/dotnet-framework/net461
       - Wayback Machine mirror:
         - https://web.archive.org/web/20240518114733/https://dotnet.microsoft.com/en-us/download/dotnet-framework/net461
