@@ -10,6 +10,13 @@ This repository contains patched INF files for Windows Vista for NVIDIA's Deskto
 ## What's that patch contains?
 This patch contains support for probably all GPU's from v391.35 as I took all driver ID's from this version and I injected into v372.70 and it's the last version for 32-bit architecture. But I only tested this patch with NVIDIA GeForce GTX 1050 Ti as it's only non-native GPU for Windows Vista on my hand. This patch doesn't enable GPU acceleration on DirectX applications, although you can play 4K videos on MPC-HC. And this patch can only be installed on Windows NT 6.0-based OS' (Windows Vista/Server 2008) as I removed every entries for other OS'. I tested 64-bit one but I didn't tested the 32-bit one.
 
+## Screenshots
+Here's some screenshots that I took on 2019:
+
+![IMG_20190206_201115](https://github.com/osmankovan123/NVIDIA372.70PatchedINFsForVista/assets/44976117/f5fe7c50-58bb-4f99-8554-d647471247c3)
+![IMG_20190206_211026](https://github.com/osmankovan123/NVIDIA372.70PatchedINFsForVista/assets/44976117/19617d9a-b74d-44ff-a207-5e3468848583)
+![IMG_20190206_213331](https://github.com/osmankovan123/NVIDIA372.70PatchedINFsForVista/assets/44976117/1aaa45f2-2c58-47d9-bf3c-f67751cd9dc4)
+
 ## How to install this patch?
 So, here's how you install this patch. But before you install this driver, I strongly suggest you to update to SP2.
 - You need to install these updates (Not necassary but they're improving compatibility.):
