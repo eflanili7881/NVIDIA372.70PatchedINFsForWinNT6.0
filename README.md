@@ -27,6 +27,8 @@ So, here's how you install this patch.
       - Wayback Machine mirror:
         - https://web.archive.org/web/20240518115510/https://download.microsoft.com/download/E/4/1/E4173890-A24A-4936-9FC9-AF930FE3FA40/NDP461-KB3102436-x86-x64-AllOS-ENU.exe
   - Platform Update (KB971644, contains 4 updates)
+    - For 32-bit and 64-bit
+      - https://archive.org/details/kb971644 (thanks to user @אור הושמנד on archive.org for upload.)
     - KB960362 (Windows Ribbon and Animation Manager Library)
       - For 32-bit
         - https://www.catalog.update.microsoft.com/Search.aspx?q=kb960362
