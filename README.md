@@ -47,6 +47,16 @@ So, here's how you install this patch. But before you install this driver, I str
       - https://download.microsoft.com/download/6/F/9/6F9673B1-87D1-46C4-BF04-95F24C3EB9DA/enu_netfx/NDP46-KB3045557-x86-x64-AllOS-ENU_exe/NDP46-KB3045557-x86-x64-AllOS-ENU.exe
         - Wayback Machine mirror:
           - https://web.archive.org/web/20240518192534/https://download.microsoft.com/download/6/F/9/6F9673B1-87D1-46C4-BF04-95F24C3EB9DA/enu_netfx/NDP46-KB3045557-x86-x64-AllOS-ENU_exe/NDP46-KB3045557-x86-x64-AllOS-ENU.exe
+    - .NET Framework 4.0 (version that comes with v372.70)
+      - https://dotnet.microsoft.com/en-us/download/dotnet-framework/net40
+        - Wayback Machine mirror:
+          - https://web.archive.org/web/20240518192020/https://dotnet.microsoft.com/en-us/download/dotnet-framework/net40
+      - https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net40-offline-installer
+        - Wayback Machine mirror:
+          - https://web.archive.org/web/20240518193308/https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net40-offline-installer
+      - https://download.microsoft.com/download/9/5/A/95A9616B-7A37-4AF6-BC36-D6EA96C8DAAE/dotNetFx40_Full_x86_x64.exe
+        - Wayback Machine mirror:
+          - https://web.archive.org/web/20240518193521/https://download.microsoft.com/download/9/5/A/95A9616B-7A37-4AF6-BC36-D6EA96C8DAAE/dotNetFx40_Full_x86_x64.exe
   - Platform Update (KB971644, contains 4 updates)
     - For 32-bit and 64-bit
       - https://archive.org/details/kb971644 (thanks to user @אור הושמנד on archive.org for upload.)
