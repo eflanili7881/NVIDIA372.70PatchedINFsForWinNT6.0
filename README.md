@@ -12,13 +12,109 @@ This patch contains support for probably all GPU's from v391.35 as I took all dr
 So, here's how you install this patch.
 - You need to install these updates (Not necassary but they're improving compatibility.):
   - .NET Framework 4.6.1
+    - https://dotnet.microsoft.com/en-us/download/dotnet-framework/net461
+      - Wayback Machine mirror:
+        - https://web.archive.org/web/20240408045507/https://dotnet.microsoft.com/en-us/download/dotnet-framework/net461
+    - https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net461-offline-installer
+      - Wayback Machine mirror:
+        - https://web.archive.org/web/20240518114815/https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net461-offline-installer
+    - https://go.microsoft.com/fwlink/?LinkId=2099467
+      - Wayback Machine mirror:
+        - https://web.archive.org/web/20240518115300/https://go.microsoft.com/fwlink/?LinkId=2099467
+    - https://download.microsoft.com/download/E/4/1/E4173890-A24A-4936-9FC9-AF930FE3FA40/NDP461-KB3102436-x86-x64-AllOS-ENU.exe
+      - Wayback Machine mirror:
+        - https://web.archive.org/web/20240327000631/https://download.microsoft.com/download/E/4/1/E4173890-A24A-4936-9FC9-AF930FE3FA40/NDP461-KB3102436-x86-x64-AllOS-ENU.exe
   - Platform Update (KB971644, contains 4 updates)
     - KB971512 (Windows Graphics, Imaging, and XPS Library (with DirectX 11)) (This is most important for improving graphical compatibility; others are optional)
+      - For 32-bit
+        - https://www.catalog.update.microsoft.com/search.aspx?q=kb971512
+          - Wayback Machine mirror:
+            - https://web.archive.org/web/20240409101608/https://www.catalog.update.microsoft.com/search.aspx?q=kb971512
+        - https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2009/10/windows6.0-kb971512-x86_370c3e41e1c161ddce29676e9273e4b8bb7ba3eb.msu
+          - Wayback Machine mirror:
+            - https://web.archive.org/web/20231007094300/https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2009/10/windows6.0-kb971512-x86_370c3e41e1c161ddce29676e9273e4b8bb7ba3eb.msu
+      - For 64-bit
+        - https://www.catalog.update.microsoft.com/search.aspx?q=kb971512
+          - Wayback Machine mirror:
+            - https://web.archive.org/web/20240409101608/https://www.catalog.update.microsoft.com/search.aspx?q=kb971512
+        - https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2009/10/windows6.0-kb971512-x64_0b329b985437c6c572529e5fd0042b9d54aeaa0c.msu
+          - Wayback Machine mirror:
+            - https://web.archive.org/web/20231007094326/https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2009/10/windows6.0-kb971512-x64_0b329b985437c6c572529e5fd0042b9d54aeaa0c.msu
     - KB971513 (Windows Automation API)
+      - For 32-bit
+        - https://www.catalog.update.microsoft.com/Search.aspx?q=KB971513
+          - Wayback Machine mirror:
+            - https://web.archive.org/web/20240518111727/https://www.catalog.update.microsoft.com/Search.aspx?q=KB971513
+        - https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2009/10/windows6.0-kb971513-x86_aa536aabb57dcbf2645673579512a6282a67f755.msu
+          - Wayback Machine mirror:
+            - https://web.archive.org/web/20240518111911/https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2009/10/windows6.0-kb971513-x86_aa536aabb57dcbf2645673579512a6282a67f755.msu
+      - For 64-bit
+        - https://www.catalog.update.microsoft.com/Search.aspx?q=KB971513
+          - Wayback Machine mirror:
+            - https://web.archive.org/web/20240518111727/https://www.catalog.update.microsoft.com/Search.aspx?q=KB971513
+        - https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2009/10/windows6.0-kb971513-x64_f6311b532be449d689dee8741d0a3217417bca1a.msu
+          - Wayback Machine mirror:
+            - https://web.archive.org/web/20240518112106/https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2009/10/windows6.0-kb971513-x64_f6311b532be449d689dee8741d0a3217417bca1a.msu
     - KB971514 (Windows Portable Devices Platform)
+      - For 32-bit
+        - https://www.catalog.update.microsoft.com/Search.aspx?q=KB971514
+          - Wayback Machine mirror:
+            - https://web.archive.org/web/20240518112244/https://www.catalog.update.microsoft.com/Search.aspx?q=KB971514
+        - https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2009/10/windows6.0-kb971514-x86_ae398183114294aaedfdfa950c012b3e9c99e1be.msu
+          - Wayback Machine mirror:
+            - https://web.archive.org/web/20240518112428/https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2009/10/windows6.0-kb971514-x86_ae398183114294aaedfdfa950c012b3e9c99e1be.msu
+      - For 64-bit
+        - https://www.catalog.update.microsoft.com/Search.aspx?q=KB971514
+          - Wayback Machine mirror:
+            - https://web.archive.org/web/20240518112244/https://www.catalog.update.microsoft.com/Search.aspx?q=KB971514
+        - https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2009/10/windows6.0-kb971514-x64_80986bdc1d81c6930f6387e378abebd987ce4c70.msu
+          - Wayback Machine mirror:
+            - https://web.archive.org/web/20240518112620/https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2009/10/windows6.0-kb971514-x64_80986bdc1d81c6930f6387e378abebd987ce4c70.msu
     - KB960362 (Windows Ribbon and Animation Manager Library)
+      - For 32-bit
+        - https://www.catalog.update.microsoft.com/Search.aspx?q=kb960362
+          - Wayback Machine mirror:
+            - https://web.archive.org/web/20220127120912/https://www.catalog.update.microsoft.com/Search.aspx?q=kb960362
+        - https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2009/10/windows6.0-kb960362-x86_4091ebe5666232299791f4be1bf8a3fd6467326c.msu
+          - Wayback Machine mirror:
+            - https://web.archive.org/web/20240518112956/https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2009/10/windows6.0-kb960362-x86_4091ebe5666232299791f4be1bf8a3fd6467326c.msu
+      - For 64-bit
+        - https://www.catalog.update.microsoft.com/Search.aspx?q=kb960362
+          - Wayback Machine mirror:
+            - https://web.archive.org/web/20220127120912/https://www.catalog.update.microsoft.com/Search.aspx?q=kb960362
+        - https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2009/10/windows6.0-kb960362-x64_9c78c54ee0bf67e3f18315126ce2ebdc1b884b41.msu
+          - Wayback Machine mirror:
+            - https://web.archive.org/web/20240518113247/https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2009/10/windows6.0-kb960362-x64_9c78c54ee0bf67e3f18315126ce2ebdc1b884b41.msu
   - Platform Update Supplement (KB2117917)
+    - For 32-bit
+      - https://www.catalog.update.microsoft.com/Search.aspx?q=kb2117917
+        - Wayback Machine mirror:
+          - https://web.archive.org/web/20231211085246/https://www.catalog.update.microsoft.com/Search.aspx?q=kb2117917
+      - https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2011/02/windows6.0-kb2117917-x86_370435d9efa6643c44d6506666b1960d56cf673a.msu
+        - Wayback Machine mirror:
+          - https://web.archive.org/web/20220905141739/https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2011/02/windows6.0-kb2117917-x86_370435d9efa6643c44d6506666b1960d56cf673a.msu
+    - For 64-bit
+      - https://www.catalog.update.microsoft.com/Search.aspx?q=kb2117917
+        - Wayback Machine mirror:
+          - https://web.archive.org/web/20231211085246/https://www.catalog.update.microsoft.com/Search.aspx?q=kb2117917
+      - https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2011/02/windows6.0-kb2117917-x64_655a21758801e9648702791d7bf30f81b58884b3.msu
+        - Wayback Machine mirror:
+          - https://web.archive.org/web/20220905141908/https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2011/02/windows6.0-kb2117917-x64_655a21758801e9648702791d7bf30f81b58884b3.msu
   - Windows Driver Framework version 1.11 update (KB2761494) (This is most important for improving driver compatibility.)
+    - For 32-bit
+      - https://www.catalog.update.microsoft.com/Search.aspx?q=KB2761494
+        - Wayback Machine mirror:
+          - https://web.archive.org/web/20240518113942/https://www.catalog.update.microsoft.com/Search.aspx?q=KB2761494
+      - https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2012/12/windows6.0-kb2761494-x86-mergedpkg_d1a88e28183646281d95cd8150bdd09faa0d2a9e.msu
+        - Wayback Machine mirror:
+          - https://web.archive.org/web/20240518114207/https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2012/12/windows6.0-kb2761494-x86-mergedpkg_d1a88e28183646281d95cd8150bdd09faa0d2a9e.msu
+    - For 64-bit
+      - https://www.catalog.update.microsoft.com/Search.aspx?q=KB2761494
+        - Wayback Machine mirror:
+          - https://web.archive.org/web/20240518113942/https://www.catalog.update.microsoft.com/Search.aspx?q=KB2761494
+      - https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2012/12/windows6.0-kb2761494-x64-mergedpkg_4f986add28318ed72dc950c89b0d1ef80e8d4319.msu
+        - Wayback Machine mirror:
+          - https://web.archive.org/web/20240518114339/https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2012/12/windows6.0-kb2761494-x64-mergedpkg_4f986add28318ed72dc950c89b0d1ef80e8d4319.msu
 - Download NVIDIA GeForce Game Ready Driver version 372.70 for Windows 7, 8 and 8.1 with corresponding architecture.
   - For 64-bit:
     - https://www.nvidia.com/download/driverResults.aspx/107008/en-us/
