@@ -20,19 +20,33 @@ Here's some screenshots that I took on 2019:
 ## How to install this patch?
 So, here's how you install this patch. But before you install this driver, I strongly suggest you to update to SP2.
 - You need to install these programs and updates (Not necassary but they're improving compatibility.):
-  - .NET Framework 4.6.1 (Vanilla driver requires .NET Framework)
-    - https://dotnet.microsoft.com/en-us/download/dotnet-framework/net461
-      - Wayback Machine mirror:
-        - https://web.archive.org/web/20240518114733/https://dotnet.microsoft.com/en-us/download/dotnet-framework/net461
-    - https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net461-offline-installer
-      - Wayback Machine mirror:
-        - https://web.archive.org/web/20240518114815/https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net461-offline-installer
-    - https://go.microsoft.com/fwlink/?LinkId=2099467
-      - Wayback Machine mirror:
-        - https://web.archive.org/web/20240518115300/https://go.microsoft.com/fwlink/?LinkId=2099467
-    - https://download.microsoft.com/download/E/4/1/E4173890-A24A-4936-9FC9-AF930FE3FA40/NDP461-KB3102436-x86-x64-AllOS-ENU.exe
-      - Wayback Machine mirror:
-        - https://web.archive.org/web/20240518115510/https://download.microsoft.com/download/E/4/1/E4173890-A24A-4936-9FC9-AF930FE3FA40/NDP461-KB3102436-x86-x64-AllOS-ENU.exe
+  - .NET Framework (Vanilla driver requires .NET Framework) (Select one of them, but my suggestion is download the latest version for Windows Vista)
+    - .NET Framework 4.6.1 (last version /wo Windows Update support before 4.6.2 was only signed with SHA-2)
+      - https://dotnet.microsoft.com/en-us/download/dotnet-framework/net461
+        - Wayback Machine mirror:
+          - https://web.archive.org/web/20240518114733/https://dotnet.microsoft.com/en-us/download/dotnet-framework/net461
+      - https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net461-offline-installer
+        - Wayback Machine mirror:
+          - https://web.archive.org/web/20240518114815/https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net461-offline-installer
+      - https://go.microsoft.com/fwlink/?LinkId=2099467
+        - Wayback Machine mirror:
+          - https://web.archive.org/web/20240518115300/https://go.microsoft.com/fwlink/?LinkId=2099467
+      - https://download.microsoft.com/download/E/4/1/E4173890-A24A-4936-9FC9-AF930FE3FA40/NDP461-KB3102436-x86-x64-AllOS-ENU.exe
+        - Wayback Machine mirror:
+          - https://web.archive.org/web/20240518115510/https://download.microsoft.com/download/E/4/1/E4173890-A24A-4936-9FC9-AF930FE3FA40/NDP461-KB3102436-x86-x64-AllOS-ENU.exe
+    - .NET Framework 4.6 (last version /w Windows Update support)
+      - https://dotnet.microsoft.com/en-us/download/dotnet-framework/net46
+        - Wayback Machine mirror:
+          - https://web.archive.org/web/20240518191933/https://dotnet.microsoft.com/en-us/download/dotnet-framework/net46
+      - https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net46-offline-installer
+        - Wayback Machine mirror:
+          - https://web.archive.org/web/20240518192126/https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net46-offline-installer
+      - https://go.microsoft.com/fwlink/?LinkId=2099384
+        - Wayback Machine mirror:
+          - https://web.archive.org/web/20240518192348/https://go.microsoft.com/fwlink/?LinkId=2099384
+      - https://download.microsoft.com/download/6/F/9/6F9673B1-87D1-46C4-BF04-95F24C3EB9DA/enu_netfx/NDP46-KB3045557-x86-x64-AllOS-ENU_exe/NDP46-KB3045557-x86-x64-AllOS-ENU.exe
+        - Wayback Machine mirror:
+          - https://web.archive.org/web/20240518192534/https://download.microsoft.com/download/6/F/9/6F9673B1-87D1-46C4-BF04-95F24C3EB9DA/enu_netfx/NDP46-KB3045557-x86-x64-AllOS-ENU_exe/NDP46-KB3045557-x86-x64-AllOS-ENU.exe
   - Platform Update (KB971644, contains 4 updates)
     - For 32-bit and 64-bit
       - https://archive.org/details/kb971644 (thanks to user @אור הושמנד on archive.org for upload.)
