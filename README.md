@@ -4,7 +4,7 @@ This repository contains patched INF files for Windows Vista for NVIDIA's Deskto
 ## Credits
 - NVIDIA for providing INF files.
 - Me for patching INF files.
-- Microsoft Corporation for providing .NET Framework 4.6.1.
+- Microsoft Corporation for providing various .NET Framework versions.
 - archive.org for providing Wayback Machine service.
 
 ## What's that patch contains?
