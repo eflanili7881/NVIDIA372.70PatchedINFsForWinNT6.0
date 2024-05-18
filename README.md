@@ -14,7 +14,7 @@ So, here's how you install this patch.
   - .NET Framework 4.6.1
     - https://dotnet.microsoft.com/en-us/download/dotnet-framework/net461
       - Wayback Machine mirror:
-        - https://web.archive.org/web/20240408045507/https://dotnet.microsoft.com/en-us/download/dotnet-framework/net461
+        - https://web.archive.org/web/20240518114733/https://dotnet.microsoft.com/en-us/download/dotnet-framework/net461
     - https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net461-offline-installer
       - Wayback Machine mirror:
         - https://web.archive.org/web/20240518114815/https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net461-offline-installer
@@ -23,7 +23,7 @@ So, here's how you install this patch.
         - https://web.archive.org/web/20240518115300/https://go.microsoft.com/fwlink/?LinkId=2099467
     - https://download.microsoft.com/download/E/4/1/E4173890-A24A-4936-9FC9-AF930FE3FA40/NDP461-KB3102436-x86-x64-AllOS-ENU.exe
       - Wayback Machine mirror:
-        - https://web.archive.org/web/20240327000631/https://download.microsoft.com/download/E/4/1/E4173890-A24A-4936-9FC9-AF930FE3FA40/NDP461-KB3102436-x86-x64-AllOS-ENU.exe
+        - https://web.archive.org/web/20240518115510/https://download.microsoft.com/download/E/4/1/E4173890-A24A-4936-9FC9-AF930FE3FA40/NDP461-KB3102436-x86-x64-AllOS-ENU.exe
   - Platform Update (KB971644, contains 4 updates)
     - KB971512 (Windows Graphics, Imaging, and XPS Library (with DirectX 11)) (This is most important for improving graphical compatibility; others are optional)
       - For 32-bit
@@ -74,14 +74,14 @@ So, here's how you install this patch.
       - For 32-bit
         - https://www.catalog.update.microsoft.com/Search.aspx?q=kb960362
           - Wayback Machine mirror:
-            - https://web.archive.org/web/20220127120912/https://www.catalog.update.microsoft.com/Search.aspx?q=kb960362
+            - https://web.archive.org/web/20240518112823/https://www.catalog.update.microsoft.com/Search.aspx?q=kb960362
         - https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2009/10/windows6.0-kb960362-x86_4091ebe5666232299791f4be1bf8a3fd6467326c.msu
           - Wayback Machine mirror:
             - https://web.archive.org/web/20240518112956/https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2009/10/windows6.0-kb960362-x86_4091ebe5666232299791f4be1bf8a3fd6467326c.msu
       - For 64-bit
         - https://www.catalog.update.microsoft.com/Search.aspx?q=kb960362
           - Wayback Machine mirror:
-            - https://web.archive.org/web/20220127120912/https://www.catalog.update.microsoft.com/Search.aspx?q=kb960362
+            - https://web.archive.org/web/20240518112823/https://www.catalog.update.microsoft.com/Search.aspx?q=kb960362
         - https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2009/10/windows6.0-kb960362-x64_9c78c54ee0bf67e3f18315126ce2ebdc1b884b41.msu
           - Wayback Machine mirror:
             - https://web.archive.org/web/20240518113247/https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2009/10/windows6.0-kb960362-x64_9c78c54ee0bf67e3f18315126ce2ebdc1b884b41.msu
@@ -89,17 +89,17 @@ So, here's how you install this patch.
     - For 32-bit
       - https://www.catalog.update.microsoft.com/Search.aspx?q=kb2117917
         - Wayback Machine mirror:
-          - https://web.archive.org/web/20231211085246/https://www.catalog.update.microsoft.com/Search.aspx?q=kb2117917
+          - https://web.archive.org/web/20240518113435/https://www.catalog.update.microsoft.com/Search.aspx?q=kb2117917
       - https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2011/02/windows6.0-kb2117917-x86_370435d9efa6643c44d6506666b1960d56cf673a.msu
         - Wayback Machine mirror:
-          - https://web.archive.org/web/20220905141739/https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2011/02/windows6.0-kb2117917-x86_370435d9efa6643c44d6506666b1960d56cf673a.msu
+          - https://web.archive.org/web/20240518113606/https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2011/02/windows6.0-kb2117917-x86_370435d9efa6643c44d6506666b1960d56cf673a.msu
     - For 64-bit
       - https://www.catalog.update.microsoft.com/Search.aspx?q=kb2117917
         - Wayback Machine mirror:
-          - https://web.archive.org/web/20231211085246/https://www.catalog.update.microsoft.com/Search.aspx?q=kb2117917
+          - https://web.archive.org/web/20240518113435/https://www.catalog.update.microsoft.com/Search.aspx?q=kb2117917
       - https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2011/02/windows6.0-kb2117917-x64_655a21758801e9648702791d7bf30f81b58884b3.msu
         - Wayback Machine mirror:
-          - https://web.archive.org/web/20220905141908/https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2011/02/windows6.0-kb2117917-x64_655a21758801e9648702791d7bf30f81b58884b3.msu
+          - https://web.archive.org/web/20240518113757/https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2011/02/windows6.0-kb2117917-x64_655a21758801e9648702791d7bf30f81b58884b3.msu
   - Windows Driver Framework version 1.11 update (KB2761494) (This is most important for improving driver compatibility.)
     - For 32-bit
       - https://www.catalog.update.microsoft.com/Search.aspx?q=KB2761494
