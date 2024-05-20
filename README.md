@@ -73,7 +73,6 @@ So, here's how you install this patch. But before you install this driver, I str
         | https://www.catalog.update.microsoft.com/Search.aspx?q=KB971513 | https://web.archive.org/web/20240518111727/https://www.catalog.update.microsoft.com/Search.aspx?q=KB971513 |
         | https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2009/10/windows6.0-kb971513-x86_aa536aabb57dcbf2645673579512a6282a67f755.msu | https://web.archive.org/web/20240518111911/https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2009/10/windows6.0-kb971513-x86_aa536aabb57dcbf2645673579512a6282a67f755.msu |
       - For 64-bit
-      - For 32-bit
         | Link | Wayback Machine mirror |
         | :-: | :-: | 
         | https://www.catalog.update.microsoft.com/Search.aspx?q=KB971513 | https://web.archive.org/web/20240518111727/https://www.catalog.update.microsoft.com/Search.aspx?q=KB971513 |
