@@ -113,7 +113,10 @@ So, here's how you install this patch. But before you install this driver, I str
       | https://www.catalog.update.microsoft.com/Search.aspx?q=KB2761494 | https://web.archive.org/web/20240518113942/https://www.catalog.update.microsoft.com/Search.aspx?q=KB2761494 |
       | https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2012/12/windows6.0-kb2761494-x64-mergedpkg_4f986add28318ed72dc950c89b0d1ef80e8d4319.msu | https://web.archive.org/web/20240518114339/https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2012/12/windows6.0-kb2761494-x64-mergedpkg_4f986add28318ed72dc950c89b0d1ef80e8d4319.msu |
 - Download NVIDIA GeForce Game Ready Driver version 372.70 for Windows 7, 8 and 8.1 with corresponding architecture.
-  - Starting with v340.52?, driver packages still splitted to desktop and notebook prefixes, but these packages hashes are same.
+  - Starting with v340.52?, driver packages still splitted to desktop and notebook prefixes, but these packages hashes are same:
+    | Desktop 32-bit | Notebook 32-bit |
+    | :-: | :-: |
+    | ![image](https://github.com/osmankovan123/NVIDIA372.70PatchedINFsForWinNT6.0/assets/44976117/3ee83aca-38fb-4ce1-8731-96f63b17a604) | ![image](https://github.com/osmankovan123/NVIDIA372.70PatchedINFsForWinNT6.0/assets/44976117/5dfa2278-a71f-4e4a-b016-6cc54130c503) |
     - For Desktop 32-bit:
       | Link | Wayback Machine mirror |
       | :-: | :-: | 
