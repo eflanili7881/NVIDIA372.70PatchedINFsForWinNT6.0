@@ -31,6 +31,13 @@ So, here's how you install this patch. But before you install this driver, I str
       | https://go.microsoft.com/fwlink/?linkid=2099468 | https://web.archive.org/web/20240608085642/https://go.microsoft.com/fwlink/?linkid=2099468 |
       | https://download.visualstudio.microsoft.com/download/pr/8e396c75-4d0d-41d3-aea8-848babc2736a/80b431456d8866ebe053eb8b81a168b3/ndp462-kb3151800-x86-x64-allos-enu.exe | https://web.archive.org/web/20240608085546/https://download.visualstudio.microsoft.com/download/pr/8e396c75-4d0d-41d3-aea8-848babc2736a/80b431456d8866ebe053eb8b81a168b3/ndp462-kb3151800-x86-x64-allos-enu.exe |
       - But if you installed SHA2 Update on Windows Vista, you can try install .NET Framework 4.6.2 on Windows Vista.
+
+      | Link | Wayback Machine mirror |
+      | :-: | :-: | 
+      | https://support.microsoft.com/en-us/topic/the-net-framework-4-6-2-offline-installer-for-windows-9dce3874-a9e5-9b11-289d-5594824aafe0 | https://web.archive.org/web/20240608090111/https://support.microsoft.com/en-us/topic/the-net-framework-4-6-2-offline-installer-for-windows-9dce3874-a9e5-9b11-289d-5594824aafe0 |
+      | http://go.microsoft.com/fwlink/?linkid=780600 | https://web.archive.org/web/20240608090507/http://go.microsoft.com/fwlink/?linkid=780600 |
+      | https://download.visualstudio.microsoft.com/download/pr/8e396c75-4d0d-41d3-aea8-848babc2736a/80b431456d8866ebe053eb8b81a168b3/ndp462-kb3151800-x86-x64-allos-enu.exe | https://web.archive.org/web/20240608085546/https://download.visualstudio.microsoft.com/download/pr/8e396c75-4d0d-41d3-aea8-848babc2736a/80b431456d8866ebe053eb8b81a168b3/ndp462-kb3151800-x86-x64-allos-enu.exe |
+      - Page says minimum version is Windows 7 SP1, but final out link is same as above. Therefore, it's compatible with Windows Server 2008.
     - .NET Framework 4.6.1 (last version /wo Windows Update support before 4.6.2 was only signed with SHA-2)
       | Link | Wayback Machine mirror |
       | :-: | :-: | 
