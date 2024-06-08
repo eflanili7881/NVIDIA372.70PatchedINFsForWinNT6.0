@@ -60,7 +60,7 @@ So, here's how you install this patch. But before you install this driver, I str
       | https://download.microsoft.com/download/9/5/A/95A9616B-7A37-4AF6-BC36-D6EA96C8DAAE/dotNetFx40_Full_x86_x64.exe | https://web.archive.org/web/20240518193521/https://download.microsoft.com/download/9/5/A/95A9616B-7A37-4AF6-BC36-D6EA96C8DAAE/dotNetFx40_Full_x86_x64.exe |
   - Platform Update (KB971644, contains 4 updates)
     - For 32-bit and 64-bit
-      - https://archive.org/details/kb971644 (thanks to user @אור הושמנד on archive.org for upload.)
+      - https://archive.org/details/kb971644 (thanks to user [@אור הושמנד](https://archive.org/details/@user_10645) on archive.org for upload.)
     - KB960362 (Windows Ribbon and Animation Manager Library)
       - For 32-bit
         | Link | Wayback Machine mirror |
