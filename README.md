@@ -25,7 +25,10 @@ So, here's how you install this patch. But before you install this driver, I str
   - .NET Framework (Vanilla driver requires .NET Framework) (Select one of them, but my suggestion is download the latest version for Windows Vista)
     - .NET Framework 4.6.2 (SHA2-only signed version, Windows Server 2008 SP2 only)
       | Link | Wayback Machine mirror |
-      | :-: | :-: | 
+      | :-: | :-: |
+      | https://dotnet.microsoft.com/en-us/ | https://web.archive.org/web/20240608084951/https://dotnet.microsoft.com/en-us/ |
+      | https://dotnet.microsoft.com/en-us/download | https://web.archive.org/web/20240608085003/https://dotnet.microsoft.com/en-us/download |
+      | https://dotnet.microsoft.com/en-us/download/dotnet-framework | https://web.archive.org/web/20240608085113/https://dotnet.microsoft.com/en-us/download/dotnet-framework |
       | https://dotnet.microsoft.com/en-us/download/dotnet-framework/net462 | https://web.archive.org/web/20240608084903/https://dotnet.microsoft.com/en-us/download/dotnet-framework/net462 |
       | https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net462-offline-installer | https://web.archive.org/web/20240608085107/https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net462-offline-installer |
       | https://go.microsoft.com/fwlink/?linkid=2099468 | https://web.archive.org/web/20240608085642/https://go.microsoft.com/fwlink/?linkid=2099468 |
@@ -38,23 +41,38 @@ So, here's how you install this patch. But before you install this driver, I str
       | http://go.microsoft.com/fwlink/?linkid=780600 | https://web.archive.org/web/20240608090507/http://go.microsoft.com/fwlink/?linkid=780600 |
       | https://download.visualstudio.microsoft.com/download/pr/8e396c75-4d0d-41d3-aea8-848babc2736a/80b431456d8866ebe053eb8b81a168b3/ndp462-kb3151800-x86-x64-allos-enu.exe | https://web.archive.org/web/20240608085546/https://download.visualstudio.microsoft.com/download/pr/8e396c75-4d0d-41d3-aea8-848babc2736a/80b431456d8866ebe053eb8b81a168b3/ndp462-kb3151800-x86-x64-allos-enu.exe |
       - Page says minimum version is Windows 7 SP1, but final out link is same as above. Therefore, it's compatible with Windows Server 2008 SP2.
-    - .NET Framework 4.6.1 (last version /wo Windows Update support before 4.6.2 was only signed with SHA-2)
+      
       | Link | Wayback Machine mirror |
       | :-: | :-: | 
+      | https://devblogs.microsoft.com/dotnet/announcing-net-framework-4-6-2/ | https://web.archive.org/web/20240608091831/https://devblogs.microsoft.com/dotnet/announcing-net-framework-4-6-2/ |
+      | http://go.microsoft.com/fwlink/?LinkId=780601 | https://web.archive.org/web/20240608092228/http://go.microsoft.com/fwlink/?LinkId=780601 |
+      | https://download.visualstudio.microsoft.com/download/pr/8e396c75-4d0d-41d3-aea8-848babc2736a/80b431456d8866ebe053eb8b81a168b3/ndp462-kb3151800-x86-x64-allos-enu.exe | https://web.archive.org/web/20240608085546/https://download.visualstudio.microsoft.com/download/pr/8e396c75-4d0d-41d3-aea8-848babc2736a/80b431456d8866ebe053eb8b81a168b3/ndp462-kb3151800-x86-x64-allos-enu.exe |
+    - .NET Framework 4.6.1 (last version /wo Windows Update support before 4.6.2 was only signed with SHA-2)
+      | Link | Wayback Machine mirror |
+      | :-: | :-: |
+      | https://dotnet.microsoft.com/en-us/ | https://web.archive.org/web/20240608084951/https://dotnet.microsoft.com/en-us/ |
+      | https://dotnet.microsoft.com/en-us/download | https://web.archive.org/web/20240608085003/https://dotnet.microsoft.com/en-us/download |
+      | https://dotnet.microsoft.com/en-us/download/dotnet-framework | https://web.archive.org/web/20240608085113/https://dotnet.microsoft.com/en-us/download/dotnet-framework |
       | https://dotnet.microsoft.com/en-us/download/dotnet-framework/net461 | https://web.archive.org/web/20240518114733/https://dotnet.microsoft.com/en-us/download/dotnet-framework/net461 |
       | https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net461-offline-installer | https://web.archive.org/web/20240518114815/https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net461-offline-installer
       | https://go.microsoft.com/fwlink/?LinkId=2099467 | https://web.archive.org/web/20240518115300/https://go.microsoft.com/fwlink/?LinkId=2099467 |
       | https://download.microsoft.com/download/E/4/1/E4173890-A24A-4936-9FC9-AF930FE3FA40/NDP461-KB3102436-x86-x64-AllOS-ENU.exe | https://web.archive.org/web/20240518115510/https://download.microsoft.com/download/E/4/1/E4173890-A24A-4936-9FC9-AF930FE3FA40/NDP461-KB3102436-x86-x64-AllOS-ENU.exe |
     - .NET Framework 4.6 (last version /w Windows Update support)
       | Link | Wayback Machine mirror |
-      | :-: | :-: | 
+      | :-: | :-: |
+      | https://dotnet.microsoft.com/en-us/ | https://web.archive.org/web/20240608084951/https://dotnet.microsoft.com/en-us/ |
+      | https://dotnet.microsoft.com/en-us/download | https://web.archive.org/web/20240608085003/https://dotnet.microsoft.com/en-us/download |
+      | https://dotnet.microsoft.com/en-us/download/dotnet-framework | https://web.archive.org/web/20240608085113/https://dotnet.microsoft.com/en-us/download/dotnet-framework |
       | https://dotnet.microsoft.com/en-us/download/dotnet-framework/net46 | https://web.archive.org/web/20240518191933/https://dotnet.microsoft.com/en-us/download/dotnet-framework/net46 |
       | https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net46-offline-installer | https://web.archive.org/web/20240518192126/https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net46-offline-installer |
       | https://go.microsoft.com/fwlink/?LinkId=2099384 | https://web.archive.org/web/20240518192348/https://go.microsoft.com/fwlink/?LinkId=2099384 |
       | https://download.microsoft.com/download/6/F/9/6F9673B1-87D1-46C4-BF04-95F24C3EB9DA/enu_netfx/NDP46-KB3045557-x86-x64-AllOS-ENU_exe/NDP46-KB3045557-x86-x64-AllOS-ENU.exe | https://web.archive.org/web/20240518192534/https://download.microsoft.com/download/6/F/9/6F9673B1-87D1-46C4-BF04-95F24C3EB9DA/enu_netfx/NDP46-KB3045557-x86-x64-AllOS-ENU_exe/NDP46-KB3045557-x86-x64-AllOS-ENU.exe |
     - .NET Framework 4.0 Full (Client+Extended) (version that comes with v372.70)
       | Link | Wayback Machine mirror |
-      | :-: | :-: | 
+      | :-: | :-: |
+      | https://dotnet.microsoft.com/en-us/ | https://web.archive.org/web/20240608084951/https://dotnet.microsoft.com/en-us/ |
+      | https://dotnet.microsoft.com/en-us/download | https://web.archive.org/web/20240608085003/https://dotnet.microsoft.com/en-us/download |
+      | https://dotnet.microsoft.com/en-us/download/dotnet-framework | https://web.archive.org/web/20240608085113/https://dotnet.microsoft.com/en-us/download/dotnet-framework |
       | https://dotnet.microsoft.com/en-us/download/dotnet-framework/net40 | https://web.archive.org/web/20240518192020/https://dotnet.microsoft.com/en-us/download/dotnet-framework/net40 |
       | https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net40-offline-installer | https://web.archive.org/web/20240518193308/https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net40-offline-installer |
       | https://download.microsoft.com/download/9/5/A/95A9616B-7A37-4AF6-BC36-D6EA96C8DAAE/dotNetFx40_Full_x86_x64.exe | https://web.archive.org/web/20240518193521/https://download.microsoft.com/download/9/5/A/95A9616B-7A37-4AF6-BC36-D6EA96C8DAAE/dotNetFx40_Full_x86_x64.exe |
