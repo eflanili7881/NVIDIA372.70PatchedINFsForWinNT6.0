@@ -23,6 +23,14 @@ Here's some screenshots that I took on 2019:
 So, here's how you install this patch. But before you install this driver, I strongly suggest you to update to SP2.
 - You need to install these programs and updates (Not necassary but they're improving compatibility.):
   - .NET Framework (Vanilla driver requires .NET Framework) (Select one of them, but my suggestion is download the latest version for Windows Vista)
+    - .NET Framework 4.6.2 (SHA2-only signed version, Server 2008 SP2 only)
+      | Link | Wayback Machine mirror |
+      | :-: | :-: | 
+      | https://dotnet.microsoft.com/en-us/download/dotnet-framework/net462 | https://web.archive.org/web/20240608084903/https://dotnet.microsoft.com/en-us/download/dotnet-framework/net462 |
+      | https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net462-offline-installer | https://web.archive.org/web/20240608085107/https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net462-offline-installer |
+      | https://go.microsoft.com/fwlink/?linkid=2099468 | https://web.archive.org/web/20240608085642/https://go.microsoft.com/fwlink/?linkid=2099468 |
+      | https://download.visualstudio.microsoft.com/download/pr/8e396c75-4d0d-41d3-aea8-848babc2736a/80b431456d8866ebe053eb8b81a168b3/ndp462-kb3151800-x86-x64-allos-enu.exe | https://web.archive.org/web/20240608085546/https://download.visualstudio.microsoft.com/download/pr/8e396c75-4d0d-41d3-aea8-848babc2736a/80b431456d8866ebe053eb8b81a168b3/ndp462-kb3151800-x86-x64-allos-enu.exe |
+      - But if you installed SHA2 Update on Windows Vista, you can try install .NET Framework 4.6.2 on Windows Vista.
     - .NET Framework 4.6.1 (last version /wo Windows Update support before 4.6.2 was only signed with SHA-2)
       | Link | Wayback Machine mirror |
       | :-: | :-: | 
