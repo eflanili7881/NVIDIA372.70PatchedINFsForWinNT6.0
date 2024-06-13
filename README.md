@@ -67,7 +67,7 @@ So, here's how you install this patch. But before you install this driver, I str
       | https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net46-offline-installer | https://web.archive.org/web/20240518192126/https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net46-offline-installer |
       | https://go.microsoft.com/fwlink/?LinkId=2099384 | https://web.archive.org/web/20240518192348/https://go.microsoft.com/fwlink/?LinkId=2099384 |
       | https://download.microsoft.com/download/6/F/9/6F9673B1-87D1-46C4-BF04-95F24C3EB9DA/enu_netfx/NDP46-KB3045557-x86-x64-AllOS-ENU_exe/NDP46-KB3045557-x86-x64-AllOS-ENU.exe | https://web.archive.org/web/20240518192534/https://download.microsoft.com/download/6/F/9/6F9673B1-87D1-46C4-BF04-95F24C3EB9DA/enu_netfx/NDP46-KB3045557-x86-x64-AllOS-ENU_exe/NDP46-KB3045557-x86-x64-AllOS-ENU.exe |
-    - .NET Framework 4.0 Full (Client+Extended) (version that comes with v372.70)
+    - .NET Framework 4.0 Full (Client + Extended) (version that comes with v372.70 driver)
       | Link | Wayback Machine mirror |
       | :-: | :-: |
       | https://dotnet.microsoft.com/en-us/ | https://web.archive.org/web/20240608084951/https://dotnet.microsoft.com/en-us/ |
@@ -174,11 +174,12 @@ So, here's how you install this patch. But before you install this driver, I str
       | https://www.nvidia.com/download/driverResults.aspx/107010/en-us/ | https://web.archive.org/web/20240518175038/https://www.nvidia.com/download/driverResults.aspx/107010/en-us/ |
       | https://www.nvidia.com/content/DriverDownloads/confirmation.php?url=/Windows/372.70/372.70-notebook-win8-win7-64bit-international-whql.exe&lang=us&type=geforcem | https://web.archive.org/web/20240518175201/https://www.nvidia.com/content/DriverDownloads/confirmation.php?url=/Windows/372.70/372.70-notebook-win8-win7-64bit-international-whql.exe&lang=us&type=geforcem |
       | https://us.download.nvidia.com/Windows/372.70/372.70-notebook-win8-win7-64bit-international-whql.exe | https://web.archive.org/web/20240518175329/https://us.download.nvidia.com/Windows/372.70/372.70-notebook-win8-win7-64bit-international-whql.exe |
-- Extract this archive via archive manager.
+- Extract driver package via archive manager.
+  - You can use 7-Zip or other archiving software that has ability to expanding SFX archives.
 - Copy Display.Driver folder corresponding your architecture to the extracted driver folder. Replace any files.
 - Double-click setup.exe to start installation.
 - On driver installation, select Custom.
-- Untick nView from install (Cannot start in Vista; it may work with Extended Kernel).
+- Untick nView from install (Cannot start in Vista/Server 2008; it may work with Extended Kernel).
 - Start installation by clicking Next.
 - After installation is complete, reboot PC. If installation successful, resolution should be increased to the native resolution.
   - The screen maybe don't come for up to 30 seconds or longer on first boot. After that, system will start normally on other boots.
