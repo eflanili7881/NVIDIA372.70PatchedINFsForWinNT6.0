@@ -3,7 +3,7 @@ This repository contains patched INF files for Windows NT 6.0 (Vista/Server 2008
 
 ## Credits
 - NVIDIA for providing drivers and INF files.
-- Me for patching INF files.
+- [Me](https://github.com/eflanili7881) for patching INF files.
 - Microsoft Corporation for providing various .NET Framework versions and Windows updates.
 - archive.org for providing Wayback Machine service.
 
