@@ -6,6 +6,7 @@ This repository contains patched INF files for Windows NT 6.0 (Vista/Server 2008
 - [Me](https://github.com/eflanili7881) for patching INF files.
 - Microsoft Corporation for providing various .NET Framework versions and Windows updates.
 - archive.org for providing Wayback Machine service.
+- User [Windows 2000](https://msfn.org/board/profile/415779-windows-2000/) from msfn.org for inspiring me to do this mod at [this thread](https://msfn.org/board/topic/177059-nvidia-pascal-graphics-card-issue/).
 
 ## What's that patch contains?
 This patch contains support for probably all GPU's from v391.35 as I took all driver ID's from this version and I injected into v372.70 and it's the last version for 32-bit architecture. But I only tested this patch with NVIDIA GeForce GTX 1050 Ti as it's only non-native GPU for Windows Vista on my hand. This patch doesn't enable GPU acceleration on DirectX applications, although you can play 4K videos on MPC-HC. And this patch can only be installed on Windows NT 6.0-based OS' (Windows Vista/Server 2008) as I removed every entries for other OS'. I tested 64-bit one but I didn't tested the 32-bit one.
