@@ -180,7 +180,7 @@ So, here's how you install this patch. But before you install this driver, I str
 - Copy Display.Driver folder corresponding your architecture to the extracted driver folder. Replace any files.
 - Double-click setup.exe to start installation.
 - On driver installation, select Custom.
-- Untick nView from install (Cannot start in Vista/Server 2008; it may work with Extended Kernel).
+- Untick nView from install (Cannot start in Vista/Server 2008 in vanilla anyway; it may work with Extended Kernel).
 - Start installation by clicking Next.
 - After installation is complete, reboot PC. If installation successful, resolution should be increased to the native resolution.
   - The screen maybe don't come for up to 30 seconds or longer on first boot. After that, system will start normally on other boots.
