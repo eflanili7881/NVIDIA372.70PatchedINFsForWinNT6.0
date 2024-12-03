@@ -196,7 +196,7 @@ So, here's how you install this patch. But before you install this driver, I str
     | ![image](./pictures/334481208-3ee83aca-38fb-4ce1-8731-96f63b17a604.png) | ![image](./pictures/334481405-5dfa2278-a71f-4e4a-b016-6cc54130c503.png) |
 
     - Hashes for for architecture-to-architecture are still same.
-    - In case, if you downloaded notebook version of v372.70 driver, you can safely use that driver as it's content will be same as desktop variant.
+    - So, in case, if you downloaded notebook version of v372.70 driver, you can safely use that driver as it's content will be same as desktop variant.
     - For Desktop 32-bit:
       | Link | Wayback Machine mirror |
       | :-: | :-: | 
