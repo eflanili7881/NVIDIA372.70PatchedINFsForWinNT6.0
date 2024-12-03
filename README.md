@@ -149,8 +149,18 @@ So, here's how you install this patch. But before you install this driver, I str
       | https://www.catalog.update.microsoft.com/Search.aspx?q=KB2761494 | https://web.archive.org/web/20240518113942/https://www.catalog.update.microsoft.com/Search.aspx?q=KB2761494 |
       | https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2012/12/windows6.0-kb2761494-x64-mergedpkg_4f986add28318ed72dc950c89b0d1ef80e8d4319.msu | https://web.archive.org/web/20240518114339/https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2012/12/windows6.0-kb2761494-x64-mergedpkg_4f986add28318ed72dc950c89b0d1ef80e8d4319.msu |
 - Download NVIDIA GeForce Game Ready Driver version 372.70 for Windows 7, 8 and 8.1 with corresponding architecture.
-  - Starting with v340.43 Beta, driver packages still splitted to desktop and notebook prefixes, but these packages hashes are same.
-  - For v337.88 (last stable version before v340.43 Beta package merging):
+  - Starting with v334.67 Beta and v340.52 WHQL, driver packages still splitted to desktop and notebook prefixes, but these packages hashes are same.
+  - For v331.93 Beta (last beta version before v334.67 Beta package merging):
+    | 331.93 Desktop Win8 Win7 WinVista 32-bit International Beta | 331.93 Notebook Win8 Win7 32-bit International Beta |
+    | :-: | :-: |
+    | ![image](./pictures/392047367-bb7452fa-7c8d-4ed8-bcd2-abf047976c7d.png) | ![image](./pictures/392047622-dbd51329-5962-4ca4-b7e6-76fe17140b31.png) |
+
+    | 331.93 Desktop Win8 Win7 WinVista 64-bit International Beta | 331.93 Notebook Win8 Win7 64-bit International Beta |
+    | :-: | :-: |
+    | ![image](./pictures/392047813-c850a65b-f759-4718-88d7-182552ca7fa8.png) | ![image](./pictures/392047969-b86ec1aa-bab2-4b1e-b552-674dc11b385f.png) |
+    
+    - As you can see, hashes for architecture-to-architecture are different.
+  - For v337.88 WHQL (last WHQL version before v340.52 WHQL package merging):
     | 337.88 Desktop Win8 Win7 WinVista 32-bit International WHQL | 337.88 Notebook Win8 Win7 32-bit International WHQL |
     | :-: | :-: |
     | ![image](./pictures/392014003-0711779e-e99b-4d1b-9876-aaee530e8d9c.png) | ![image](./pictures/392014693-9bc8ba23-a9eb-48a4-a2ce-0cf1c8e64417.png) |
@@ -160,17 +170,17 @@ So, here's how you install this patch. But before you install this driver, I str
     | ![image](./pictures/392015745-97eacf70-a241-4416-91ef-857ea4e0127c.png) | ![image](./pictures/392016190-1e40a327-e20c-4758-9d2c-3e071aa6d5fb.png) |
 
     - As you can see, hashes for architecture-to-architecture are different.
-  - For v340.43 Beta (first beta version version that merged desktop and notebook variants in one package):
-    | 340.43 Desktop Win8 Win7 WinVista 32-bit International Beta | 340.43 Notebook Win8 Win7 32-bit International Beta |
+  - For v334.67 Beta (first beta version version that merged desktop and notebook variants in one package):
+    | 334.67 Desktop Win8 Win7 WinVista 32-bit International Beta | 334.67 Notebook Win8 Win7 32-bit International Beta |
     | :-: | :-: |
-    | ![image](./pictures/392029230-a3a9080f-f7e3-4daa-a5f9-bd81b0411845.png) | ![image](./pictures/392029917-772fafac-e395-4c92-bfff-67275ee4999a.png) |
+    | ![image](./pictures/392045792-e1300e94-7e07-4dbf-a46b-154e02ff9f45.png) | ![image](./pictures/392045977-0971295a-c37c-4a59-960a-70bb8633fdfa.png) |
     
-    | 340.43 Desktop Win8 Win7 WinVista 64-bit International Beta | 340.43 Notebook Win8 Win7 64-bit International Beta |
+    | 334.67 Desktop Win8 Win7 WinVista 64-bit International Beta | 334.67 Notebook Win8 Win7 64-bit International Beta |
     | :-: | :-: |
-    | ![image](./pictures/392030389-468d7cf8-5113-47cb-b37a-8f7b5a903eee.png) | ![image](./pictures/392030820-b24564e7-17cf-484f-922c-9095ff8ab4a0.png) |
+    | ![image](./pictures/392046182-519fc4f0-52b9-4065-91f5-eb6920ebbc87.png) | ![image](./pictures/392046398-9915eaac-c923-4be0-b009-c7b1ae845558.png) |
 
     - As you can see, hashes for architecture-to-architecture are same.
-  - For v340.52 (first stable version that merged desktop and notebook variants in one package):
+  - For v340.52 (first WHQL version that merged desktop and notebook variants in one package):
     | 340.52 Desktop Win8 Win7 WinVista 32-bit International WHQL | 340.52 Notebook Win8 Win7 32-bit International WHQL |
     | :-: | :-: |
     | ![image](./pictures/392017242-b876fc0b-3413-4a93-ab39-1e79ab94dfa1.png) | ![image](./pictures/392017632-8a1912de-39c4-4850-bbe8-f6ac0d1c8dd7.png) |
