@@ -190,7 +190,7 @@ So, here's how you install this patch. But before you install this driver, I str
     | ![image](./pictures/392018372-79b633f2-01dc-4538-a2b5-038d4fcc231b.png) | ![image](./pictures/392018850-bb46ead0-6525-498c-b64d-b76bf5113055.png) |
 
     - As you can see, hashes for architecture-to-architecture are same.
-  - And for our purpose, v372.70 (last unofficially supported driver for Windows Vista without any kernel modification):
+  - And for our purpose, v372.70 WHQL (last unofficially supported driver for Windows Vista without any kernel modification):
     | 372.70 Desktop Win8 Win7 32-bit International WHQL | 372.70 Desktop Win8 Win7 32-bit International WHQL |
     | :-: | :-: |
     | ![image](./pictures/334481208-3ee83aca-38fb-4ce1-8731-96f63b17a604.png) | ![image](./pictures/334481405-5dfa2278-a71f-4e4a-b016-6cc54130c503.png) |
