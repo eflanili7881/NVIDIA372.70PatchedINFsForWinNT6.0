@@ -16,9 +16,9 @@ Don't copyright strike me, daddy NVIDIA.
 ## Screenshots
 Here's some screenshots that I took on 2019:
 
-![IMG_20190206_201115](https://github.com/osmankovan123/NVIDIA372.70PatchedINFsForVista/assets/44976117/f5fe7c50-58bb-4f99-8554-d647471247c3)
-![IMG_20190206_211026](https://github.com/osmankovan123/NVIDIA372.70PatchedINFsForVista/assets/44976117/19617d9a-b74d-44ff-a207-5e3468848583)
-![IMG_20190206_213331](https://github.com/osmankovan123/NVIDIA372.70PatchedINFsForVista/assets/44976117/1aaa45f2-2c58-47d9-bf3c-f67751cd9dc4)
+![image](./pictures/331801060-f5fe7c50-58bb-4f99-8554-d647471247c3.jpg)
+![image](./pictures/331801048-19617d9a-b74d-44ff-a207-5e3468848583.jpg)
+![image](./pictures/331801071-1aaa45f2-2c58-47d9-bf3c-f67751cd9dc4.jpg)
 
 ## How to install this patch?
 So, here's how you install this patch. But before you install this driver, I strongly suggest you to update to SP2.
@@ -150,7 +150,7 @@ So, here's how you install this patch. But before you install this driver, I str
   - Starting with v340.52?, driver packages still splitted to desktop and notebook prefixes, but these packages hashes are same:
     | Desktop 32-bit | Notebook 32-bit |
     | :-: | :-: |
-    | ![image](https://github.com/osmankovan123/NVIDIA372.70PatchedINFsForWinNT6.0/assets/44976117/3ee83aca-38fb-4ce1-8731-96f63b17a604) | ![image](https://github.com/osmankovan123/NVIDIA372.70PatchedINFsForWinNT6.0/assets/44976117/5dfa2278-a71f-4e4a-b016-6cc54130c503) |
+    | ![image](./pictures/334481208-3ee83aca-38fb-4ce1-8731-96f63b17a604.png) | ![image](./pictures/334481405-5dfa2278-a71f-4e4a-b016-6cc54130c503.png) |
     - For Desktop 32-bit:
       | Link | Wayback Machine mirror |
       | :-: | :-: | 
