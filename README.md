@@ -147,10 +147,34 @@ So, here's how you install this patch. But before you install this driver, I str
       | https://www.catalog.update.microsoft.com/Search.aspx?q=KB2761494 | https://web.archive.org/web/20240518113942/https://www.catalog.update.microsoft.com/Search.aspx?q=KB2761494 |
       | https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2012/12/windows6.0-kb2761494-x64-mergedpkg_4f986add28318ed72dc950c89b0d1ef80e8d4319.msu | https://web.archive.org/web/20240518114339/https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2012/12/windows6.0-kb2761494-x64-mergedpkg_4f986add28318ed72dc950c89b0d1ef80e8d4319.msu |
 - Download NVIDIA GeForce Game Ready Driver version 372.70 for Windows 7, 8 and 8.1 with corresponding architecture.
-  - Starting with v340.52?, driver packages still splitted to desktop and notebook prefixes, but these packages hashes are same:
-    | Desktop 32-bit | Notebook 32-bit |
+  - Starting with v340.52, driver packages still splitted to desktop and notebook prefixes, but these packages hashes are same.
+  - For v337.88 (last stable version before v340.52):
+    | 337.88 Desktop Win8 Win7 WinVista 32-bit International WHQL | 337.88 Notebook Win8 Win7 32-bit International WHQL |
+    | :-: | :-: |
+    | ![image](./pictures/392014003-0711779e-e99b-4d1b-9876-aaee530e8d9c.png) | ![image](./pictures/392014693-9bc8ba23-a9eb-48a4-a2ce-0cf1c8e64417.png) |
+
+    | 337.88 Desktop Win8 Win7 WinVista 64-bit International WHQL | 337.88 Notebook Win8 Win7 64-bit International WHQL |
+    | :-: | :-: |
+    | ![image](./pictures/392015745-97eacf70-a241-4416-91ef-857ea4e0127c.png) | ![image](./pictures/392016190-1e40a327-e20c-4758-9d2c-3e071aa6d5fb.png) |
+
+    - As you can see, hashes for architecture-to-architecture are different.
+  - For v340.52:
+    | 340.52 Desktop Win8 Win7 WinVista 32-bit International WHQL | 340.52 Notebook Win8 Win7 32-bit International WHQL |
+    | :-: | :-: |
+    | ![image](./pictures/392017242-b876fc0b-3413-4a93-ab39-1e79ab94dfa1.png) | ![image](./pictures/392017632-8a1912de-39c4-4850-bbe8-f6ac0d1c8dd7.png) |
+    
+    | 340.52 Desktop Win8 Win7 WinVista 64-bit International WHQL | 340.52 Notebook Win8 Win7 64-bit International WHQL |
+    | :-: | :-: |
+    | ![image](./pictures/392018372-79b633f2-01dc-4538-a2b5-038d4fcc231b.png) | ![image](./pictures/392018850-bb46ead0-6525-498c-b64d-b76bf5113055.png) |
+
+    - As you can see, hashes for architecture-to-architecture are same.
+  - And for our purpose, v372.70 (last unofficially supported driver for Windows Vista without any kernel modification):
+    | 372.70 Desktop Win8 Win7 32-bit International WHQL | 372.70 Desktop Win8 Win7 32-bit International WHQL |
     | :-: | :-: |
     | ![image](./pictures/334481208-3ee83aca-38fb-4ce1-8731-96f63b17a604.png) | ![image](./pictures/334481405-5dfa2278-a71f-4e4a-b016-6cc54130c503.png) |
+
+    - Hashes for for architecture-to-architecture are still same.
+    - In case, if you downloaded notebook version of v372.70 driver, you can safely use that driver as it's content will be same as desktop variant.
     - For Desktop 32-bit:
       | Link | Wayback Machine mirror |
       | :-: | :-: | 
