@@ -17,7 +17,9 @@ Don't copyright strike me, daddy NVIDIA.
 Here's some screenshots that I took on 2019:
 
 ![image](./pictures/331801060-f5fe7c50-58bb-4f99-8554-d647471247c3.jpg)
+
 ![image](./pictures/331801048-19617d9a-b74d-44ff-a207-5e3468848583.jpg)
+
 ![image](./pictures/331801071-1aaa45f2-2c58-47d9-bf3c-f67751cd9dc4.jpg)
 
 ## How to install this patch?
@@ -148,7 +150,7 @@ So, here's how you install this patch. But before you install this driver, I str
       | https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2012/12/windows6.0-kb2761494-x64-mergedpkg_4f986add28318ed72dc950c89b0d1ef80e8d4319.msu | https://web.archive.org/web/20240518114339/https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2012/12/windows6.0-kb2761494-x64-mergedpkg_4f986add28318ed72dc950c89b0d1ef80e8d4319.msu |
 - Download NVIDIA GeForce Game Ready Driver version 372.70 for Windows 7, 8 and 8.1 with corresponding architecture.
   - Starting with v340.43 Beta, driver packages still splitted to desktop and notebook prefixes, but these packages hashes are same.
-  - For v337.88 (last stable version before v340.52 package merging):
+  - For v337.88 (last stable version before v340.43 Beta package merging):
     | 337.88 Desktop Win8 Win7 WinVista 32-bit International WHQL | 337.88 Notebook Win8 Win7 32-bit International WHQL |
     | :-: | :-: |
     | ![image](./pictures/392014003-0711779e-e99b-4d1b-9876-aaee530e8d9c.png) | ![image](./pictures/392014693-9bc8ba23-a9eb-48a4-a2ce-0cf1c8e64417.png) |
