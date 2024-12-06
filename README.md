@@ -27,200 +27,350 @@ So, here's how you install this patch. But before you install this driver, I str
 - You need to install these programs and updates (Not necassary but they're improving compatibility.):
   - .NET Framework (Vanilla driver requires .NET Framework) (Select one of them, but my suggestion is download the latest version for Windows Vista)
     - .NET Framework 4.6.2 (SHA2-only signed version, Windows Server 2008 SP2 only)
-      | Link | Wayback Machine mirror |
-      | :-: | :-: |
-      | https://dotnet.microsoft.com/en-us/ | https://web.archive.org/web/20240608084951/https://dotnet.microsoft.com/en-us/ |
-      | https://dotnet.microsoft.com/en-us/download | https://web.archive.org/web/20240608085003/https://dotnet.microsoft.com/en-us/download |
-      | https://dotnet.microsoft.com/en-us/download/dotnet-framework | https://web.archive.org/web/20240608085113/https://dotnet.microsoft.com/en-us/download/dotnet-framework |
-      | https://dotnet.microsoft.com/en-us/download/dotnet-framework/net462 | https://web.archive.org/web/20240608084903/https://dotnet.microsoft.com/en-us/download/dotnet-framework/net462 |
-      | https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net462-offline-installer | https://web.archive.org/web/20240608085107/https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net462-offline-installer |
-      | https://go.microsoft.com/fwlink/?linkid=2099468 | https://web.archive.org/web/20240608085642/https://go.microsoft.com/fwlink/?linkid=2099468 |
-      | https://download.visualstudio.microsoft.com/download/pr/8e396c75-4d0d-41d3-aea8-848babc2736a/80b431456d8866ebe053eb8b81a168b3/ndp462-kb3151800-x86-x64-allos-enu.exe | https://web.archive.org/web/20240608085546/https://download.visualstudio.microsoft.com/download/pr/8e396c75-4d0d-41d3-aea8-848babc2736a/80b431456d8866ebe053eb8b81a168b3/ndp462-kb3151800-x86-x64-allos-enu.exe |
+      - Link
+        - https://dotnet.microsoft.com/en-us/
+          - Wayback Machine Mirror
+            - https://web.archive.org/web/20240608084951/https://dotnet.microsoft.com/en-us/
+        - https://dotnet.microsoft.com/en-us/download
+          - Wayback Machine Mirror
+            - https://web.archive.org/web/20240608085003/https://dotnet.microsoft.com/en-us/download
+        - https://dotnet.microsoft.com/en-us/download/dotnet-framework
+          - Wayback Machine Mirror
+            - https://web.archive.org/web/20240608085113/https://dotnet.microsoft.com/en-us/download/dotnet-framework
+        - https://dotnet.microsoft.com/en-us/download/dotnet-framework/net462
+          - Wayback Machine Mirror
+            - https://web.archive.org/web/20240608084903/https://dotnet.microsoft.com/en-us/download/dotnet-framework/net462
+        - https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net462-offline-installer
+          - Wayback Machine Mirror
+            - https://web.archive.org/web/20240608085107/https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net462-offline-installer |
+        - https://go.microsoft.com/fwlink/?linkid=2099468
+          - Wayback Machine Mirror
+            - https://web.archive.org/web/20240608085642/https://go.microsoft.com/fwlink/?linkid=2099468
+        - https://download.visualstudio.microsoft.com/download/pr/8e396c75-4d0d-41d3-aea8-848babc2736a/80b431456d8866ebe053eb8b81a168b3/ndp462-kb3151800-x86-x64-allos-enu.exe
+          - Wayback Machine Mirror
+            - https://web.archive.org/web/20240608085546/https://download.visualstudio.microsoft.com/download/pr/8e396c75-4d0d-41d3-aea8-848babc2736a/80b431456d8866ebe053eb8b81a168b3/ndp462-kb3151800-x86-x64-allos-enu.exe
       - But if you installed SHA2 Update on Windows Vista, you can try install .NET Framework 4.6.2 on Windows Vista SP2.
-      
-      | Link | Wayback Machine mirror |
-      | :-: | :-: | 
-      | https://support.microsoft.com/en-us/topic/the-net-framework-4-6-2-offline-installer-for-windows-9dce3874-a9e5-9b11-289d-5594824aafe0 | https://web.archive.org/web/20240608090111/https://support.microsoft.com/en-us/topic/the-net-framework-4-6-2-offline-installer-for-windows-9dce3874-a9e5-9b11-289d-5594824aafe0 |
-      | http://go.microsoft.com/fwlink/?linkid=780600 | https://web.archive.org/web/20240608090507/http://go.microsoft.com/fwlink/?linkid=780600 |
-      | https://download.visualstudio.microsoft.com/download/pr/8e396c75-4d0d-41d3-aea8-848babc2736a/80b431456d8866ebe053eb8b81a168b3/ndp462-kb3151800-x86-x64-allos-enu.exe | https://web.archive.org/web/20240608085546/https://download.visualstudio.microsoft.com/download/pr/8e396c75-4d0d-41d3-aea8-848babc2736a/80b431456d8866ebe053eb8b81a168b3/ndp462-kb3151800-x86-x64-allos-enu.exe |
+      - Link
+        - https://support.microsoft.com/en-us/topic/the-net-framework-4-6-2-offline-installer-for-windows-9dce3874-a9e5-9b11-289d-5594824aafe0
+          - Wayback Machine Mirror
+            - https://web.archive.org/web/20240608090111/https://support.microsoft.com/en-us/topic/the-net-framework-4-6-2-offline-installer-for-windows-9dce3874-a9e5-9b11-289d-5594824aafe0
+        - http://go.microsoft.com/fwlink/?linkid=780600
+          - Wayback Machine Mirror
+            - https://web.archive.org/web/20240608090507/http://go.microsoft.com/fwlink/?linkid=780600
+        - https://download.visualstudio.microsoft.com/download/pr/8e396c75-4d0d-41d3-aea8-848babc2736a/80b431456d8866ebe053eb8b81a168b3/ndp462-kb3151800-x86-x64-allos-enu.exe
+          - Wayback Machine Mirror
+            - https://web.archive.org/web/20240608085546/https://download.visualstudio.microsoft.com/download/pr/8e396c75-4d0d-41d3-aea8-848babc2736a/80b431456d8866ebe053eb8b81a168b3/ndp462-kb3151800-x86-x64-allos-enu.exe
       - Page says minimum version is Windows 7 SP1, but final out link is same as above. Therefore, it's compatible with Windows Server 2008 SP2.
-      
-      | Link | Wayback Machine mirror |
-      | :-: | :-: | 
-      | https://devblogs.microsoft.com/dotnet/announcing-net-framework-4-6-2/ | https://web.archive.org/web/20240608091831/https://devblogs.microsoft.com/dotnet/announcing-net-framework-4-6-2/ |
-      | http://go.microsoft.com/fwlink/?LinkId=780601 | https://web.archive.org/web/20240608092228/http://go.microsoft.com/fwlink/?LinkId=780601 |
-      | https://download.visualstudio.microsoft.com/download/pr/8e396c75-4d0d-41d3-aea8-848babc2736a/80b431456d8866ebe053eb8b81a168b3/ndp462-kb3151800-x86-x64-allos-enu.exe | https://web.archive.org/web/20240608085546/https://download.visualstudio.microsoft.com/download/pr/8e396c75-4d0d-41d3-aea8-848babc2736a/80b431456d8866ebe053eb8b81a168b3/ndp462-kb3151800-x86-x64-allos-enu.exe |
+      - Link
+        - https://devblogs.microsoft.com/dotnet/announcing-net-framework-4-6-2/
+          - Wayback Machine Mirror
+            - https://web.archive.org/web/20240608091831/https://devblogs.microsoft.com/dotnet/announcing-net-framework-4-6-2/
+        - http://go.microsoft.com/fwlink/?LinkId=780601
+          - Wayback Machine Mirror
+            - https://web.archive.org/web/20240608092228/http://go.microsoft.com/fwlink/?LinkId=780601
+        - https://download.visualstudio.microsoft.com/download/pr/8e396c75-4d0d-41d3-aea8-848babc2736a/80b431456d8866ebe053eb8b81a168b3/ndp462-kb3151800-x86-x64-allos-enu.exe
+          - Wayback Machine Mirror
+            - https://web.archive.org/web/20240608085546/https://download.visualstudio.microsoft.com/download/pr/8e396c75-4d0d-41d3-aea8-848babc2736a/80b431456d8866ebe053eb8b81a168b3/ndp462-kb3151800-x86-x64-allos-enu.exe
     - .NET Framework 4.6.1 (last version /wo Windows Update support before 4.6.2 was only signed with SHA-2)
-      | Link | Wayback Machine mirror |
-      | :-: | :-: |
-      | https://dotnet.microsoft.com/en-us/ | https://web.archive.org/web/20240608084951/https://dotnet.microsoft.com/en-us/ |
-      | https://dotnet.microsoft.com/en-us/download | https://web.archive.org/web/20240608085003/https://dotnet.microsoft.com/en-us/download |
-      | https://dotnet.microsoft.com/en-us/download/dotnet-framework | https://web.archive.org/web/20240608085113/https://dotnet.microsoft.com/en-us/download/dotnet-framework |
-      | https://dotnet.microsoft.com/en-us/download/dotnet-framework/net461 | https://web.archive.org/web/20240518114733/https://dotnet.microsoft.com/en-us/download/dotnet-framework/net461 |
-      | https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net461-offline-installer | https://web.archive.org/web/20240518114815/https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net461-offline-installer
-      | https://go.microsoft.com/fwlink/?LinkId=2099467 | https://web.archive.org/web/20240518115300/https://go.microsoft.com/fwlink/?LinkId=2099467 |
-      | https://download.microsoft.com/download/E/4/1/E4173890-A24A-4936-9FC9-AF930FE3FA40/NDP461-KB3102436-x86-x64-AllOS-ENU.exe | https://web.archive.org/web/20240518115510/https://download.microsoft.com/download/E/4/1/E4173890-A24A-4936-9FC9-AF930FE3FA40/NDP461-KB3102436-x86-x64-AllOS-ENU.exe |
+      - Link
+        - https://dotnet.microsoft.com/en-us/
+          - Wayback Machine Mirror
+            - https://web.archive.org/web/20240608084951/https://dotnet.microsoft.com/en-us/
+        - https://dotnet.microsoft.com/en-us/download
+          - Wayback Machine Mirror
+            - https://web.archive.org/web/20240608085003/https://dotnet.microsoft.com/en-us/download
+        - https://dotnet.microsoft.com/en-us/download/dotnet-framework
+          - Wayback Machine Mirror
+            - https://web.archive.org/web/20240608085113/https://dotnet.microsoft.com/en-us/download/dotnet-framework
+        - https://dotnet.microsoft.com/en-us/download/dotnet-framework/net461
+          - Wayback Machine Mirror
+            - https://web.archive.org/web/20240518114733/https://dotnet.microsoft.com/en-us/download/dotnet-framework/net461
+        - https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net461-offline-installer
+          - Wayback Machine Mirror
+            - https://web.archive.org/web/20240518114815/https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net461-offline-installer
+        - https://go.microsoft.com/fwlink/?LinkId=2099467
+          - Wayback Machine Mirror
+            - https://web.archive.org/web/20240518115300/https://go.microsoft.com/fwlink/?LinkId=2099467
+        - https://download.microsoft.com/download/E/4/1/E4173890-A24A-4936-9FC9-AF930FE3FA40/NDP461-KB3102436-x86-x64-AllOS-ENU.exe
+          - Wayback Machine Mirror
+            - https://web.archive.org/web/20240518115510/https://download.microsoft.com/download/E/4/1/E4173890-A24A-4936-9FC9-AF930FE3FA40/NDP461-KB3102436-x86-x64-AllOS-ENU.exe
     - .NET Framework 4.6 (last version /w Windows Update support)
-      | Link | Wayback Machine mirror |
-      | :-: | :-: |
-      | https://dotnet.microsoft.com/en-us/ | https://web.archive.org/web/20240608084951/https://dotnet.microsoft.com/en-us/ |
-      | https://dotnet.microsoft.com/en-us/download | https://web.archive.org/web/20240608085003/https://dotnet.microsoft.com/en-us/download |
-      | https://dotnet.microsoft.com/en-us/download/dotnet-framework | https://web.archive.org/web/20240608085113/https://dotnet.microsoft.com/en-us/download/dotnet-framework |
-      | https://dotnet.microsoft.com/en-us/download/dotnet-framework/net46 | https://web.archive.org/web/20240518191933/https://dotnet.microsoft.com/en-us/download/dotnet-framework/net46 |
-      | https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net46-offline-installer | https://web.archive.org/web/20240518192126/https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net46-offline-installer |
-      | https://go.microsoft.com/fwlink/?LinkId=2099384 | https://web.archive.org/web/20240518192348/https://go.microsoft.com/fwlink/?LinkId=2099384 |
-      | https://download.microsoft.com/download/6/F/9/6F9673B1-87D1-46C4-BF04-95F24C3EB9DA/enu_netfx/NDP46-KB3045557-x86-x64-AllOS-ENU_exe/NDP46-KB3045557-x86-x64-AllOS-ENU.exe | https://web.archive.org/web/20240518192534/https://download.microsoft.com/download/6/F/9/6F9673B1-87D1-46C4-BF04-95F24C3EB9DA/enu_netfx/NDP46-KB3045557-x86-x64-AllOS-ENU_exe/NDP46-KB3045557-x86-x64-AllOS-ENU.exe |
+      - Link
+        - https://dotnet.microsoft.com/en-us/
+          - Wayback Machine Mirror
+            - https://web.archive.org/web/20240608084951/https://dotnet.microsoft.com/en-us/
+        - https://dotnet.microsoft.com/en-us/download
+          - Wayback Machine Mirror
+            - https://web.archive.org/web/20240608085003/https://dotnet.microsoft.com/en-us/download
+        - https://dotnet.microsoft.com/en-us/download/dotnet-framework
+          - Wayback Machine Mirror
+            - https://web.archive.org/web/20240608085113/https://dotnet.microsoft.com/en-us/download/dotnet-framework
+        - https://dotnet.microsoft.com/en-us/download/dotnet-framework/net46
+          - Wayback Machine Mirror
+            - https://web.archive.org/web/20240518191933/https://dotnet.microsoft.com/en-us/download/dotnet-framework/net46
+        - https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net46-offline-installer
+          - Wayback Machine Mirror
+            - https://web.archive.org/web/20240518192126/https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net46-offline-installer
+        - https://go.microsoft.com/fwlink/?LinkId=2099384
+          - Wayback Machine Mirror
+            - https://web.archive.org/web/20240518192348/https://go.microsoft.com/fwlink/?LinkId=2099384
+        - https://download.microsoft.com/download/6/F/9/6F9673B1-87D1-46C4-BF04-95F24C3EB9DA/enu_netfx/NDP46-KB3045557-x86-x64-AllOS-ENU_exe/NDP46-KB3045557-x86-x64-AllOS-ENU.exe
+          - Wayback Machine Mirror
+            - https://web.archive.org/web/20240518192534/https://download.microsoft.com/download/6/F/9/6F9673B1-87D1-46C4-BF04-95F24C3EB9DA/enu_netfx/NDP46-KB3045557-x86-x64-AllOS-ENU_exe/NDP46-KB3045557-x86-x64-AllOS-ENU.exe
     - .NET Framework 4.0 Full (Client + Extended) (version that comes with v372.70 driver)
-      | Link | Wayback Machine mirror |
-      | :-: | :-: |
-      | https://dotnet.microsoft.com/en-us/ | https://web.archive.org/web/20240608084951/https://dotnet.microsoft.com/en-us/ |
-      | https://dotnet.microsoft.com/en-us/download | https://web.archive.org/web/20240608085003/https://dotnet.microsoft.com/en-us/download |
-      | https://dotnet.microsoft.com/en-us/download/dotnet-framework | https://web.archive.org/web/20240608085113/https://dotnet.microsoft.com/en-us/download/dotnet-framework |
-      | https://dotnet.microsoft.com/en-us/download/dotnet-framework/net40 | https://web.archive.org/web/20240518192020/https://dotnet.microsoft.com/en-us/download/dotnet-framework/net40 |
-      | https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net40-offline-installer | https://web.archive.org/web/20240518193308/https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net40-offline-installer |
-      | https://download.microsoft.com/download/9/5/A/95A9616B-7A37-4AF6-BC36-D6EA96C8DAAE/dotNetFx40_Full_x86_x64.exe | https://web.archive.org/web/20240518193521/https://download.microsoft.com/download/9/5/A/95A9616B-7A37-4AF6-BC36-D6EA96C8DAAE/dotNetFx40_Full_x86_x64.exe |
+      - Link
+        - https://dotnet.microsoft.com/en-us/
+          - Wayback Machine Mirror
+            - https://web.archive.org/web/20240608084951/https://dotnet.microsoft.com/en-us/
+        - https://dotnet.microsoft.com/en-us/download
+          - Wayback Machine Mirror
+            - https://web.archive.org/web/20240608085003/https://dotnet.microsoft.com/en-us/download
+        - https://dotnet.microsoft.com/en-us/download/dotnet-framework
+          - Wayback Machine Mirror
+            - https://web.archive.org/web/20240608085113/https://dotnet.microsoft.com/en-us/download/dotnet-framework
+        - https://dotnet.microsoft.com/en-us/download/dotnet-framework/net40
+          - Wayback Machine Mirror
+            - https://web.archive.org/web/20240518192020/https://dotnet.microsoft.com/en-us/download/dotnet-framework/net40
+        - https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net40-offline-installer
+          - Wayback Machine Mirror
+            - https://web.archive.org/web/20240518193308/https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net40-offline-installer
+        - https://download.microsoft.com/download/9/5/A/95A9616B-7A37-4AF6-BC36-D6EA96C8DAAE/dotNetFx40_Full_x86_x64.exe
+          - Wayback Machine Mirror
+            - https://web.archive.org/web/20240518193521/https://download.microsoft.com/download/9/5/A/95A9616B-7A37-4AF6-BC36-D6EA96C8DAAE/dotNetFx40_Full_x86_x64.exe
   - Platform Update (KB971644, contains 4 updates)
     - For 32-bit and 64-bit
       - https://archive.org/details/kb971644 (thanks to user [@אור הושמנד](https://archive.org/details/@user_10645) on archive.org for upload.)
     - KB960362 (Windows Ribbon and Animation Manager Library)
       - For 32-bit
-        | Link | Wayback Machine mirror |
-        | :-: | :-: | 
-        | https://www.catalog.update.microsoft.com/Search.aspx?q=kb960362 | https://web.archive.org/web/20240518112823/https://www.catalog.update.microsoft.com/Search.aspx?q=kb960362 |
-        | https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2009/10/windows6.0-kb960362-x86_4091ebe5666232299791f4be1bf8a3fd6467326c.msu | https://web.archive.org/web/20240518112956/https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2009/10/windows6.0-kb960362-x86_4091ebe5666232299791f4be1bf8a3fd6467326c.msu |
+        - Link
+          - https://www.catalog.update.microsoft.com/Search.aspx?q=kb960362
+            - Wayback Machine Mirror
+              - https://web.archive.org/web/20240518112823/https://www.catalog.update.microsoft.com/Search.aspx?q=kb960362
+          - https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2009/10/windows6.0-kb960362-x86_4091ebe5666232299791f4be1bf8a3fd6467326c.msu
+          - Wayback Machine Mirror
+            - https://web.archive.org/web/20240518112956/https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2009/10/windows6.0-kb960362-x86_4091ebe5666232299791f4be1bf8a3fd6467326c.msu
       - For 64-bit
-        | Link | Wayback Machine mirror |
-        | :-: | :-: | 
-        | https://www.catalog.update.microsoft.com/Search.aspx?q=kb960362 | https://web.archive.org/web/20240518112823/https://www.catalog.update.microsoft.com/Search.aspx?q=kb960362 |
-        | https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2009/10/windows6.0-kb960362-x64_9c78c54ee0bf67e3f18315126ce2ebdc1b884b41.msu | https://web.archive.org/web/20240518113247/https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2009/10/windows6.0-kb960362-x64_9c78c54ee0bf67e3f18315126ce2ebdc1b884b41.msu |
+        - Link
+          - https://www.catalog.update.microsoft.com/Search.aspx?q=kb960362
+            - Wayback Machine Mirror
+              - https://web.archive.org/web/20240518112823/https://www.catalog.update.microsoft.com/Search.aspx?q=kb960362
+          - https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2009/10/windows6.0-kb960362-x64_9c78c54ee0bf67e3f18315126ce2ebdc1b884b41.msu
+          - Wayback Machine Mirror
+            - https://web.archive.org/web/20240518113247/https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2009/10/windows6.0-kb960362-x64_9c78c54ee0bf67e3f18315126ce2ebdc1b884b41.msu
     - KB971512 (Windows Graphics, Imaging, and XPS Library (with DirectX 11)) (This is most important for improving graphical compatibility; others are optional)
       - For 32-bit
-        | Link | Wayback Machine mirror |
-        | :-: | :-: | 
-        | https://www.catalog.update.microsoft.com/search.aspx?q=kb971512 | https://web.archive.org/web/20240409101608/https://www.catalog.update.microsoft.com/search.aspx?q=kb971512 |
-        | https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2009/10/windows6.0-kb971512-x86_370c3e41e1c161ddce29676e9273e4b8bb7ba3eb.msu | https://web.archive.org/web/20231007094300/https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2009/10/windows6.0-kb971512-x86_370c3e41e1c161ddce29676e9273e4b8bb7ba3eb.msu |
+        - Link
+          - https://www.catalog.update.microsoft.com/search.aspx?q=kb971512
+            - Wayback Machine Mirror
+              - https://web.archive.org/web/20240409101608/https://www.catalog.update.microsoft.com/search.aspx?q=kb971512
+          - https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2009/10/windows6.0-kb971512-x86_370c3e41e1c161ddce29676e9273e4b8bb7ba3eb.msu
+          - Wayback Machine Mirror
+            - https://web.archive.org/web/20231007094300/https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2009/10/windows6.0-kb971512-x86_370c3e41e1c161ddce29676e9273e4b8bb7ba3eb.msu
       - For 64-bit
-        | Link | Wayback Machine mirror |
-        | :-: | :-: | 
-        | https://www.catalog.update.microsoft.com/search.aspx?q=kb971512 | https://web.archive.org/web/20240409101608/https://www.catalog.update.microsoft.com/search.aspx?q=kb971512 |
-        | https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2009/10/windows6.0-kb971512-x64_0b329b985437c6c572529e5fd0042b9d54aeaa0c.msu | https://web.archive.org/web/20231007094326/https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2009/10/windows6.0-kb971512-x64_0b329b985437c6c572529e5fd0042b9d54aeaa0c.msu |
+        - Link
+          - https://www.catalog.update.microsoft.com/search.aspx?q=kb971512
+            - Wayback Machine Mirror
+              - https://web.archive.org/web/20240409101608/https://www.catalog.update.microsoft.com/search.aspx?q=kb971512
+          - https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2009/10/windows6.0-kb971512-x64_0b329b985437c6c572529e5fd0042b9d54aeaa0c.msu
+            - Wayback Machine Mirror
+              - https://web.archive.org/web/20231007094326/https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2009/10/windows6.0-kb971512-x64_0b329b985437c6c572529e5fd0042b9d54aeaa0c.msu
     - KB971513 (Windows Automation API)
       - For 32-bit
-        | Link | Wayback Machine mirror |
-        | :-: | :-: | 
-        | https://www.catalog.update.microsoft.com/Search.aspx?q=KB971513 | https://web.archive.org/web/20240518111727/https://www.catalog.update.microsoft.com/Search.aspx?q=KB971513 |
-        | https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2009/10/windows6.0-kb971513-x86_aa536aabb57dcbf2645673579512a6282a67f755.msu | https://web.archive.org/web/20240518111911/https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2009/10/windows6.0-kb971513-x86_aa536aabb57dcbf2645673579512a6282a67f755.msu |
+        - Link
+          - https://www.catalog.update.microsoft.com/Search.aspx?q=KB971513
+            - Wayback Machine Mirror
+              - https://web.archive.org/web/20240518111727/https://www.catalog.update.microsoft.com/Search.aspx?q=KB971513
+          - https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2009/10/windows6.0-kb971513-x86_aa536aabb57dcbf2645673579512a6282a67f755.msu
+            - Wayback Machine Mirror
+              - https://web.archive.org/web/20240518111911/https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2009/10/windows6.0-kb971513-x86_aa536aabb57dcbf2645673579512a6282a67f755.msu
       - For 64-bit
-        | Link | Wayback Machine mirror |
-        | :-: | :-: | 
-        | https://www.catalog.update.microsoft.com/Search.aspx?q=KB971513 | https://web.archive.org/web/20240518111727/https://www.catalog.update.microsoft.com/Search.aspx?q=KB971513 |
-        | https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2009/10/windows6.0-kb971513-x64_f6311b532be449d689dee8741d0a3217417bca1a.msu | https://web.archive.org/web/20240518112106/https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2009/10/windows6.0-kb971513-x64_f6311b532be449d689dee8741d0a3217417bca1a.msu |
+        - Link
+          - https://www.catalog.update.microsoft.com/Search.aspx?q=KB971513
+            - Wayback Machine Mirror
+              - https://web.archive.org/web/20240518111727/https://www.catalog.update.microsoft.com/Search.aspx?q=KB971513
+          - https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2009/10/windows6.0-kb971513-x64_f6311b532be449d689dee8741d0a3217417bca1a.msu
+            - Wayback Machine Mirror
+              - https://web.archive.org/web/20240518112106/https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2009/10/windows6.0-kb971513-x64_f6311b532be449d689dee8741d0a3217417bca1a.msu
     - KB971514 (Windows Portable Devices Platform)
       - For 32-bit
-        | Link | Wayback Machine mirror |
-        | :-: | :-: | 
-        | https://www.catalog.update.microsoft.com/Search.aspx?q=KB971514 | https://web.archive.org/web/20240518112244/https://www.catalog.update.microsoft.com/Search.aspx?q=KB971514 |
-        | https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2009/10/windows6.0-kb971514-x86_ae398183114294aaedfdfa950c012b3e9c99e1be.msu | https://web.archive.org/web/20240518112428/https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2009/10/windows6.0-kb971514-x86_ae398183114294aaedfdfa950c012b3e9c99e1be.msu |
+        - Link
+          - https://www.catalog.update.microsoft.com/Search.aspx?q=KB971514
+            - Wayback Machine Mirror
+              - https://web.archive.org/web/20240518112244/https://www.catalog.update.microsoft.com/Search.aspx?q=KB971514
+          - https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2009/10/windows6.0-kb971514-x86_ae398183114294aaedfdfa950c012b3e9c99e1be.msu
+            - Wayback Machine Mirror
+              - https://web.archive.org/web/20240518112428/https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2009/10/windows6.0-kb971514-x86_ae398183114294aaedfdfa950c012b3e9c99e1be.msu
       - For 64-bit
-        | Link | Wayback Machine mirror |
-        | :-: | :-: | 
-        | https://www.catalog.update.microsoft.com/Search.aspx?q=KB971514 | https://web.archive.org/web/20240518112244/https://www.catalog.update.microsoft.com/Search.aspx?q=KB971514 |
-        | https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2009/10/windows6.0-kb971514-x64_80986bdc1d81c6930f6387e378abebd987ce4c70.msu | https://web.archive.org/web/20240518112620/https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2009/10/windows6.0-kb971514-x64_80986bdc1d81c6930f6387e378abebd987ce4c70.msu |
+        - Link
+          - https://www.catalog.update.microsoft.com/Search.aspx?q=KB971514
+            - Wayback Machine Mirror
+              - https://web.archive.org/web/20240518112244/https://www.catalog.update.microsoft.com/Search.aspx?q=KB971514
+          - https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2009/10/windows6.0-kb971514-x64_80986bdc1d81c6930f6387e378abebd987ce4c70.msu
+            - Wayback Machine Mirror
+              - https://web.archive.org/web/20240518112620/https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2009/10/windows6.0-kb971514-x64_80986bdc1d81c6930f6387e378abebd987ce4c70.msu
   - Platform Update Supplement (KB2117917)
     - For 32-bit
-      | Link | Wayback Machine mirror |
-      | :-: | :-: | 
-      | https://www.catalog.update.microsoft.com/Search.aspx?q=kb2117917 | https://web.archive.org/web/20240518113435/https://www.catalog.update.microsoft.com/Search.aspx?q=kb2117917 |
-      | https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2011/02/windows6.0-kb2117917-x86_370435d9efa6643c44d6506666b1960d56cf673a.msu | https://web.archive.org/web/20240518113606/https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2011/02/windows6.0-kb2117917-x86_370435d9efa6643c44d6506666b1960d56cf673a.msu |
+      - Link
+        - https://www.catalog.update.microsoft.com/Search.aspx?q=kb2117917
+          - Wayback Machine Mirror
+            - https://web.archive.org/web/20240518113435/https://www.catalog.update.microsoft.com/Search.aspx?q=kb2117917
+        - https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2011/02/windows6.0-kb2117917-x86_370435d9efa6643c44d6506666b1960d56cf673a.msu
+          - Wayback Machine Mirror
+            - https://web.archive.org/web/20240518113606/https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2011/02/windows6.0-kb2117917-x86_370435d9efa6643c44d6506666b1960d56cf673a.msu
     - For 64-bit
-      | Link | Wayback Machine mirror |
-      | :-: | :-: | 
-      | https://www.catalog.update.microsoft.com/Search.aspx?q=kb2117917 | https://web.archive.org/web/20240518113435/https://www.catalog.update.microsoft.com/Search.aspx?q=kb2117917 |
-      | https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2011/02/windows6.0-kb2117917-x64_655a21758801e9648702791d7bf30f81b58884b3.msu | https://web.archive.org/web/20240518113757/https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2011/02/windows6.0-kb2117917-x64_655a21758801e9648702791d7bf30f81b58884b3.msu |
+      - Link
+        - https://www.catalog.update.microsoft.com/Search.aspx?q=kb2117917
+          - Wayback Machine Mirror
+            - https://web.archive.org/web/20240518113435/https://www.catalog.update.microsoft.com/Search.aspx?q=kb2117917
+        - https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2011/02/windows6.0-kb2117917-x64_655a21758801e9648702791d7bf30f81b58884b3.msu
+          - Wayback Machine Mirror
+            - https://web.archive.org/web/20240518113757/https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2011/02/windows6.0-kb2117917-x64_655a21758801e9648702791d7bf30f81b58884b3.msu
   - Windows Driver Framework version 1.11 update (KB2761494) (This is most important for improving driver compatibility.)
     - For 32-bit
-      | Link | Wayback Machine mirror |
-      | :-: | :-: | 
-      | https://www.catalog.update.microsoft.com/Search.aspx?q=KB2761494 | https://web.archive.org/web/20240518113942/https://www.catalog.update.microsoft.com/Search.aspx?q=KB2761494 |
-      | https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2012/12/windows6.0-kb2761494-x86-mergedpkg_d1a88e28183646281d95cd8150bdd09faa0d2a9e.msu | https://web.archive.org/web/20240518114207/https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2012/12/windows6.0-kb2761494-x86-mergedpkg_d1a88e28183646281d95cd8150bdd09faa0d2a9e.msu |
+      - Link
+        - https://www.catalog.update.microsoft.com/Search.aspx?q=KB2761494
+          - Wayback Machine Mirror
+            - https://web.archive.org/web/20240518113942/https://www.catalog.update.microsoft.com/Search.aspx?q=KB2761494
+        - https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2012/12/windows6.0-kb2761494-x86-mergedpkg_d1a88e28183646281d95cd8150bdd09faa0d2a9e.msu
+          - Wayback Machine Mirror
+            - https://web.archive.org/web/20240518114207/https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2012/12/windows6.0-kb2761494-x86-mergedpkg_d1a88e28183646281d95cd8150bdd09faa0d2a9e.msu
     - For 64-bit
-      | Link | Wayback Machine mirror |
-      | :-: | :-: | 
-      | https://www.catalog.update.microsoft.com/Search.aspx?q=KB2761494 | https://web.archive.org/web/20240518113942/https://www.catalog.update.microsoft.com/Search.aspx?q=KB2761494 |
-      | https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2012/12/windows6.0-kb2761494-x64-mergedpkg_4f986add28318ed72dc950c89b0d1ef80e8d4319.msu | https://web.archive.org/web/20240518114339/https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2012/12/windows6.0-kb2761494-x64-mergedpkg_4f986add28318ed72dc950c89b0d1ef80e8d4319.msu |
+      - Link
+        - https://www.catalog.update.microsoft.com/Search.aspx?q=KB2761494
+          - Wayback Machine Mirror
+            - https://web.archive.org/web/20240518113942/https://www.catalog.update.microsoft.com/Search.aspx?q=KB2761494
+        - https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2012/12/windows6.0-kb2761494-x64-mergedpkg_4f986add28318ed72dc950c89b0d1ef80e8d4319.msu
+          - Wayback Machine Mirror
+            - https://web.archive.org/web/20240518114339/https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2012/12/windows6.0-kb2761494-x64-mergedpkg_4f986add28318ed72dc950c89b0d1ef80e8d4319.msu
 - Download NVIDIA GeForce Game Ready Driver version 372.70 for Windows 7, 8 and 8.1 with corresponding architecture.
   - Starting with v334.67 Beta and v340.52 WHQL, driver packages still splitted to desktop and notebook prefixes, but these packages hashes are same.
   - For v331.93 Beta (last beta version before v334.67 Beta package merging):
-    | 331.93 Desktop Win8 Win7 WinVista 32-bit International Beta | 331.93 Notebook Win8 Win7 32-bit International Beta |
-    | :-: | :-: |
-    | ![image](./pictures/392047367-bb7452fa-7c8d-4ed8-bcd2-abf047976c7d.png) | ![image](./pictures/392047622-dbd51329-5962-4ca4-b7e6-76fe17140b31.png) |
+    - 331.93 Desktop Win8 Win7 WinVista 32-bit International Beta
+   
+      ![image](./pictures/392047367-bb7452fa-7c8d-4ed8-bcd2-abf047976c7d.png)
+ 
+    - 331.93 Notebook Win8 Win7 32-bit International Beta
+    
+      ![image](./pictures/392047622-dbd51329-5962-4ca4-b7e6-76fe17140b31.png)
 
-    | 331.93 Desktop Win8 Win7 WinVista 64-bit International Beta | 331.93 Notebook Win8 Win7 64-bit International Beta |
-    | :-: | :-: |
-    | ![image](./pictures/392047813-c850a65b-f759-4718-88d7-182552ca7fa8.png) | ![image](./pictures/392047969-b86ec1aa-bab2-4b1e-b552-674dc11b385f.png) |
+    - 331.93 Desktop Win8 Win7 WinVista 64-bit International Beta
+
+      ![image](./pictures/392047813-c850a65b-f759-4718-88d7-182552ca7fa8.png)
+
+    - 331.93 Notebook Win8 Win7 64-bit International Beta
+
+      ![image](./pictures/392047969-b86ec1aa-bab2-4b1e-b552-674dc11b385f.png)
     
     - As you can see, hashes for architecture-to-architecture are different.
   - For v337.88 WHQL (last WHQL version before v340.52 WHQL package merging):
-    | 337.88 Desktop Win8 Win7 WinVista 32-bit International WHQL | 337.88 Notebook Win8 Win7 32-bit International WHQL |
-    | :-: | :-: |
-    | ![image](./pictures/392014003-0711779e-e99b-4d1b-9876-aaee530e8d9c.png) | ![image](./pictures/392014693-9bc8ba23-a9eb-48a4-a2ce-0cf1c8e64417.png) |
+    - 337.88 Desktop Win8 Win7 WinVista 32-bit International WHQL
 
-    | 337.88 Desktop Win8 Win7 WinVista 64-bit International WHQL | 337.88 Notebook Win8 Win7 64-bit International WHQL |
-    | :-: | :-: |
-    | ![image](./pictures/392015745-97eacf70-a241-4416-91ef-857ea4e0127c.png) | ![image](./pictures/392016190-1e40a327-e20c-4758-9d2c-3e071aa6d5fb.png) |
+      ![image](./pictures/392014003-0711779e-e99b-4d1b-9876-aaee530e8d9c.png)
+
+    - 337.88 Notebook Win8 Win7 32-bit International WHQL
+
+      ![image](./pictures/392014693-9bc8ba23-a9eb-48a4-a2ce-0cf1c8e64417.png)
+
+    - 337.88 Desktop Win8 Win7 WinVista 64-bit International WHQL
+
+      ![image](./pictures/392015745-97eacf70-a241-4416-91ef-857ea4e0127c.png)
+      
+    - 337.88 Notebook Win8 Win7 64-bit International WHQL
+
+      ![image](./pictures/392016190-1e40a327-e20c-4758-9d2c-3e071aa6d5fb.png)
 
     - As you can see, hashes for architecture-to-architecture are different.
   - For v334.67 Beta (first beta version version that merged desktop and notebook variants in one package):
-    | 334.67 Desktop Win8 Win7 WinVista 32-bit International Beta | 334.67 Notebook Win8 Win7 32-bit International Beta |
-    | :-: | :-: |
-    | ![image](./pictures/392045792-e1300e94-7e07-4dbf-a46b-154e02ff9f45.png) | ![image](./pictures/392045977-0971295a-c37c-4a59-960a-70bb8633fdfa.png) |
+    - 334.67 Desktop Win8 Win7 WinVista 32-bit International Beta
+
+      ![image](./pictures/392045792-e1300e94-7e07-4dbf-a46b-154e02ff9f45.png)
+
+    - 334.67 Notebook Win8 Win7 32-bit International Beta
+
+      ![image](./pictures/392045977-0971295a-c37c-4a59-960a-70bb8633fdfa.png)
     
-    | 334.67 Desktop Win8 Win7 WinVista 64-bit International Beta | 334.67 Notebook Win8 Win7 64-bit International Beta |
-    | :-: | :-: |
-    | ![image](./pictures/392046182-519fc4f0-52b9-4065-91f5-eb6920ebbc87.png) | ![image](./pictures/392046398-9915eaac-c923-4be0-b009-c7b1ae845558.png) |
+    - 334.67 Desktop Win8 Win7 WinVista 64-bit International Beta
+
+      ![image](./pictures/392046182-519fc4f0-52b9-4065-91f5-eb6920ebbc87.png)
+
+    - 334.67 Notebook Win8 Win7 64-bit International Beta
+
+      ![image](./pictures/392046398-9915eaac-c923-4be0-b009-c7b1ae845558.png)
 
     - As you can see, hashes for architecture-to-architecture are same.
   - For v340.52 (first WHQL version that merged desktop and notebook variants in one package):
-    | 340.52 Desktop Win8 Win7 WinVista 32-bit International WHQL | 340.52 Notebook Win8 Win7 32-bit International WHQL |
-    | :-: | :-: |
-    | ![image](./pictures/392017242-b876fc0b-3413-4a93-ab39-1e79ab94dfa1.png) | ![image](./pictures/392017632-8a1912de-39c4-4850-bbe8-f6ac0d1c8dd7.png) |
+    - 340.52 Desktop Win8 Win7 WinVista 32-bit International WHQL
+
+      ![image](./pictures/392017242-b876fc0b-3413-4a93-ab39-1e79ab94dfa1.png)
+
+    - 340.52 Notebook Win8 Win7 32-bit International WHQL
     
-    | 340.52 Desktop Win8 Win7 WinVista 64-bit International WHQL | 340.52 Notebook Win8 Win7 64-bit International WHQL |
-    | :-: | :-: |
-    | ![image](./pictures/392018372-79b633f2-01dc-4538-a2b5-038d4fcc231b.png) | ![image](./pictures/392018850-bb46ead0-6525-498c-b64d-b76bf5113055.png) |
+      ![image](./pictures/392017632-8a1912de-39c4-4850-bbe8-f6ac0d1c8dd7.png)
+    
+    - 340.52 Desktop Win8 Win7 WinVista 64-bit International WHQL
+      
+      ![image](./pictures/392018372-79b633f2-01dc-4538-a2b5-038d4fcc231b.png)
+      
+    - 340.52 Notebook Win8 Win7 64-bit International WHQL
+    
+      ![image](./pictures/392018850-bb46ead0-6525-498c-b64d-b76bf5113055.png)
 
     - As you can see, hashes for architecture-to-architecture are same.
   - And for our purpose, v372.70 WHQL (last unofficially supported driver for Windows Vista without any kernel modification):
-    | 372.70 Desktop Win8 Win7 32-bit International WHQL | 372.70 Desktop Win8 Win7 32-bit International WHQL |
-    | :-: | :-: |
-    | ![image](./pictures/334481208-3ee83aca-38fb-4ce1-8731-96f63b17a604.png) | ![image](./pictures/334481405-5dfa2278-a71f-4e4a-b016-6cc54130c503.png) |
+    - 372.70 Desktop Win8 Win7 32-bit International WHQL
+   
+      ![image](./pictures/334481208-3ee83aca-38fb-4ce1-8731-96f63b17a604.png)
+      
+    - 372.70 Notebook Win8 Win7 32-bit International WHQL
+
+      ![image](./pictures/334481405-5dfa2278-a71f-4e4a-b016-6cc54130c503.png)
 
     - Hashes for for architecture-to-architecture are still same.
     - So, in case, if you downloaded notebook version of v372.70 driver, you can safely use that driver as it's content will be same as desktop variant.
-    - For Desktop 32-bit:
-      | Link | Wayback Machine mirror |
-      | :-: | :-: | 
-      | https://www.nvidia.com/download/driverResults.aspx/107007/en-us/ | https://web.archive.org/web/20240517200045/https://www.nvidia.com/download/driverResults.aspx/107007/en-us/ |
-      | https://www.nvidia.com/content/DriverDownloads/confirmation.php?url=/Windows/372.70/372.70-desktop-win8-win7-32bit-international-whql.exe&lang=us&type=GeForce | https://web.archive.org/web/20240517200124/https://www.nvidia.com/content/DriverDownloads/confirmation.php?url=/Windows/372.70/372.70-desktop-win8-win7-32bit-international-whql.exe&lang=us&type=GeForce |
-      | https://us.download.nvidia.com/Windows/372.70/372.70-desktop-win8-win7-32bit-international-whql.exe | https://web.archive.org/web/20240517194936/https://us.download.nvidia.com/Windows/372.70/372.70-desktop-win8-win7-32bit-international-whql.exe |
-    - For Desktop 64-bit:
-      | Link | Wayback Machine mirror |
-      | :-: | :-: | 
-      | https://www.nvidia.com/download/driverResults.aspx/107008/en-us/ | https://web.archive.org/web/20240517195744/https://www.nvidia.com/download/driverResults.aspx/107008/en-us/ |
-      | https://www.nvidia.com/content/DriverDownloads/confirmation.php?url=/Windows/372.70/372.70-desktop-win8-win7-64bit-international-whql.exe&lang=us&type=GeForce | https://web.archive.org/web/20240517195902/https://www.nvidia.com/content/DriverDownloads/confirmation.php?url=/Windows/372.70/372.70-desktop-win8-win7-64bit-international-whql.exe&lang=us&type=GeForce |
-      | https://us.download.nvidia.com/Windows/372.70/372.70-desktop-win8-win7-64bit-international-whql.exe | https://web.archive.org/web/20240517194120/https://us.download.nvidia.com/Windows/372.70/372.70-desktop-win8-win7-64bit-international-whql.exe |
-    - For Notebook 32-bit
-      | Link | Wayback Machine mirror |
-      | :-: | :-: | 
-      | https://www.nvidia.com/download/driverResults.aspx/107009/en-us/ | https://web.archive.org/web/20240518173442/https://www.nvidia.com/download/driverResults.aspx/107009/en-us/ |
-      | https://www.nvidia.com/content/DriverDownloads/confirmation.php?url=/Windows/372.70/372.70-notebook-win8-win7-32bit-international-whql.exe&lang=us&type=geforcem | https://web.archive.org/web/20240518173646/https://www.nvidia.com/content/DriverDownloads/confirmation.php?url=/Windows/372.70/372.70-notebook-win8-win7-32bit-international-whql.exe&lang=us&type=geforcem |
-      | https://us.download.nvidia.com/Windows/372.70/372.70-notebook-win8-win7-32bit-international-whql.exe | https://web.archive.org/web/20240518173853/https://us.download.nvidia.com/Windows/372.70/372.70-notebook-win8-win7-32bit-international-whql.exe |
-    - For Notebook 64-bit
-      | Link | Wayback Machine mirror |
-      | :-: | :-: | 
-      | https://www.nvidia.com/download/driverResults.aspx/107010/en-us/ | https://web.archive.org/web/20240518175038/https://www.nvidia.com/download/driverResults.aspx/107010/en-us/ |
-      | https://www.nvidia.com/content/DriverDownloads/confirmation.php?url=/Windows/372.70/372.70-notebook-win8-win7-64bit-international-whql.exe&lang=us&type=geforcem | https://web.archive.org/web/20240518175201/https://www.nvidia.com/content/DriverDownloads/confirmation.php?url=/Windows/372.70/372.70-notebook-win8-win7-64bit-international-whql.exe&lang=us&type=geforcem |
-      | https://us.download.nvidia.com/Windows/372.70/372.70-notebook-win8-win7-64bit-international-whql.exe | https://web.archive.org/web/20240518175329/https://us.download.nvidia.com/Windows/372.70/372.70-notebook-win8-win7-64bit-international-whql.exe |
+  - For Desktop 32-bit:
+    - Link
+      - https://www.nvidia.com/download/driverResults.aspx/107007/en-us/
+        - Wayback Machine Mirror
+          - https://web.archive.org/web/20240517200045/https://www.nvidia.com/download/driverResults.aspx/107007/en-us/
+      - https://www.nvidia.com/content/DriverDownloads/confirmation.php?url=/Windows/372.70/372.70-desktop-win8-win7-32bit-international-whql.exe&lang=us&type=GeForce
+        - Wayback Machine Mirror
+          - https://web.archive.org/web/20240517200124/https://www.nvidia.com/content/DriverDownloads/confirmation.php?url=/Windows/372.70/372.70-desktop-win8-win7-32bit-international-whql.exe&lang=us&type=GeForce
+      - https://us.download.nvidia.com/Windows/372.70/372.70-desktop-win8-win7-32bit-international-whql.exe
+        - Wayback Machine Mirror
+          - https://web.archive.org/web/20240517194936/https://us.download.nvidia.com/Windows/372.70/372.70-desktop-win8-win7-32bit-international-whql.exe
+  - For Desktop 64-bit:
+    - Link
+      - https://www.nvidia.com/download/driverResults.aspx/107008/en-us/
+        - Wayback Machine Mirror
+          - https://web.archive.org/web/20240517195744/https://www.nvidia.com/download/driverResults.aspx/107008/en-us/
+      - https://www.nvidia.com/content/DriverDownloads/confirmation.php?url=/Windows/372.70/372.70-desktop-win8-win7-64bit-international-whql.exe&lang=us&type=GeForce
+        - Wayback Machine Mirror
+          - https://web.archive.org/web/20240517195902/https://www.nvidia.com/content/DriverDownloads/confirmation.php?url=/Windows/372.70/372.70-desktop-win8-win7-64bit-international-whql.exe&lang=us&type=GeForce
+      - https://us.download.nvidia.com/Windows/372.70/372.70-desktop-win8-win7-64bit-international-whql.exe
+        - Wayback Machine Mirror
+          - https://web.archive.org/web/20240517194120/https://us.download.nvidia.com/Windows/372.70/372.70-desktop-win8-win7-64bit-international-whql.exe
+  - For Notebook 32-bit
+    - Link
+      - https://www.nvidia.com/download/driverResults.aspx/107009/en-us/
+        - Wayback Machine Mirror
+          - https://web.archive.org/web/20240518173442/https://www.nvidia.com/download/driverResults.aspx/107009/en-us/
+      - https://www.nvidia.com/content/DriverDownloads/confirmation.php?url=/Windows/372.70/372.70-notebook-win8-win7-32bit-international-whql.exe&lang=us&type=geforcem
+        - Wayback Machine Mirror
+          - https://web.archive.org/web/20240518173646/https://www.nvidia.com/content/DriverDownloads/confirmation.php?url=/Windows/372.70/372.70-notebook-win8-win7-32bit-international-whql.exe&lang=us&type=geforcem
+      - https://us.download.nvidia.com/Windows/372.70/372.70-notebook-win8-win7-32bit-international-whql.exe
+        - Wayback Machine Mirror
+          - https://web.archive.org/web/20240518173853/https://us.download.nvidia.com/Windows/372.70/372.70-notebook-win8-win7-32bit-international-whql.exe
+  - For Notebook 64-bit
+    - Link
+      - https://www.nvidia.com/download/driverResults.aspx/107010/en-us/
+        - Wayback Machine Mirror
+          - https://web.archive.org/web/20240518175038/https://www.nvidia.com/download/driverResults.aspx/107010/en-us/
+      - https://www.nvidia.com/content/DriverDownloads/confirmation.php?url=/Windows/372.70/372.70-notebook-win8-win7-64bit-international-whql.exe&lang=us&type=geforcem
+        - Wayback Machine Mirror
+          - https://web.archive.org/web/20240518175201/https://www.nvidia.com/content/DriverDownloads/confirmation.php?url=/Windows/372.70/372.70-notebook-win8-win7-64bit-international-whql.exe&lang=us&type=geforcem
+      - https://us.download.nvidia.com/Windows/372.70/372.70-notebook-win8-win7-64bit-international-whql.exe
+        - Wayback Machine Mirror
+          - https://web.archive.org/web/20240518175329/https://us.download.nvidia.com/Windows/372.70/372.70-notebook-win8-win7-64bit-international-whql.exe
 - Extract driver package via archive manager.
   - You can use 7-Zip or other archiving software that has ability to expanding SFX archives.
 - Copy Display.Driver folder corresponding your architecture to the extracted driver folder. Replace any files.
